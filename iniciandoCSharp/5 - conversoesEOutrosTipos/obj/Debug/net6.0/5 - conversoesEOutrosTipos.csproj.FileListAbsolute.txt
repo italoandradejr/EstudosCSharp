@@ -1,0 +1,15 @@
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\obj\Debug\net6.0\5 - conversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\obj\Debug\net6.0\5 - conversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\obj\Debug\net6.0\5 - conversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\obj\Debug\net6.0\5 - conversoesEOutrosTipos.AssemblyInfo.cs
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\obj\Debug\net6.0\5 - conversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\bin\Debug\net6.0\5 - conversoesEOutrosTipos.exe
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\bin\Debug\net6.0\5 - conversoesEOutrosTipos.deps.json
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\bin\Debug\net6.0\5 - conversoesEOutrosTipos.runtimeconfig.json
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\bin\Debug\net6.0\5 - conversoesEOutrosTipos.dll
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\bin\Debug\net6.0\5 - conversoesEOutrosTipos.pdb
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\obj\Debug\net6.0\5 - conversoesEOutrosTipos.dll
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\obj\Debug\net6.0\refint\5 - conversoesEOutrosTipos.dll
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\obj\Debug\net6.0\5 - conversoesEOutrosTipos.pdb
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\obj\Debug\net6.0\5 - conversoesEOutrosTipos.genruntimeconfig.cache
+C:\Users\italo\source\repos\iniciandoCSharp\5 - conversoesEOutrosTipos\obj\Debug\net6.0\ref\5 - conversoesEOutrosTipos.dll

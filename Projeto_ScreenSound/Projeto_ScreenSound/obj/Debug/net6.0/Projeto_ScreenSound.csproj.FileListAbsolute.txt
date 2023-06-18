@@ -1,0 +1,15 @@
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\bin\Debug\net6.0\Projeto_ScreenSound.exe
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\bin\Debug\net6.0\Projeto_ScreenSound.deps.json
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\bin\Debug\net6.0\Projeto_ScreenSound.runtimeconfig.json
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\bin\Debug\net6.0\Projeto_ScreenSound.dll
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\bin\Debug\net6.0\Projeto_ScreenSound.pdb
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\obj\Debug\net6.0\Projeto_ScreenSound.csproj.AssemblyReference.cache
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\obj\Debug\net6.0\Projeto_ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\obj\Debug\net6.0\Projeto_ScreenSound.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\obj\Debug\net6.0\Projeto_ScreenSound.AssemblyInfo.cs
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\obj\Debug\net6.0\Projeto_ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\obj\Debug\net6.0\Projeto_ScreenSound.dll
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\obj\Debug\net6.0\refint\Projeto_ScreenSound.dll
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\obj\Debug\net6.0\Projeto_ScreenSound.pdb
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\obj\Debug\net6.0\Projeto_ScreenSound.genruntimeconfig.cache
+C:\Users\italo\source\repos\Projeto_ScreenSound\Projeto_ScreenSound\obj\Debug\net6.0\ref\Projeto_ScreenSound.dll

@@ -1,0 +1,15 @@
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\bin\Debug\net6.0\10 - escopo.exe
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\bin\Debug\net6.0\10 - escopo.deps.json
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\bin\Debug\net6.0\10 - escopo.runtimeconfig.json
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\bin\Debug\net6.0\10 - escopo.dll
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\bin\Debug\net6.0\10 - escopo.pdb
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\obj\Debug\net6.0\10 - escopo.csproj.AssemblyReference.cache
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\obj\Debug\net6.0\10 - escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\obj\Debug\net6.0\10 - escopo.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\obj\Debug\net6.0\10 - escopo.AssemblyInfo.cs
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\obj\Debug\net6.0\10 - escopo.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\obj\Debug\net6.0\10 - escopo.dll
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\obj\Debug\net6.0\refint\10 - escopo.dll
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\obj\Debug\net6.0\10 - escopo.pdb
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\obj\Debug\net6.0\10 - escopo.genruntimeconfig.cache
+C:\Users\italo\source\repos\iniciandoCSharp\10 - escopo\obj\Debug\net6.0\ref\10 - escopo.dll

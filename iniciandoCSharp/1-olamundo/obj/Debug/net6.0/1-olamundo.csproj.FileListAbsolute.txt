@@ -1,0 +1,15 @@
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\bin\Debug\net6.0\1-olamundo.exe
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\bin\Debug\net6.0\1-olamundo.deps.json
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\bin\Debug\net6.0\1-olamundo.runtimeconfig.json
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\bin\Debug\net6.0\1-olamundo.dll
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\bin\Debug\net6.0\1-olamundo.pdb
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\obj\Debug\net6.0\1-olamundo.csproj.AssemblyReference.cache
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\obj\Debug\net6.0\1-olamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\obj\Debug\net6.0\1-olamundo.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\obj\Debug\net6.0\1-olamundo.AssemblyInfo.cs
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\obj\Debug\net6.0\1-olamundo.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\obj\Debug\net6.0\1-olamundo.dll
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\obj\Debug\net6.0\refint\1-olamundo.dll
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\obj\Debug\net6.0\1-olamundo.pdb
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\obj\Debug\net6.0\1-olamundo.genruntimeconfig.cache
+C:\Users\italo\source\repos\iniciandoCSharp\1-olamundo\obj\Debug\net6.0\ref\1-olamundo.dll

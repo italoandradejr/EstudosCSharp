@@ -1,0 +1,15 @@
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\bin\Debug\net6.0\p12 - CalculaPoupanca2.exe
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\bin\Debug\net6.0\p12 - CalculaPoupanca2.deps.json
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\bin\Debug\net6.0\p12 - CalculaPoupanca2.runtimeconfig.json
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\bin\Debug\net6.0\p12 - CalculaPoupanca2.dll
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\bin\Debug\net6.0\p12 - CalculaPoupanca2.pdb
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\obj\Debug\net6.0\p12 - CalculaPoupanca2.csproj.AssemblyReference.cache
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\obj\Debug\net6.0\p12 - CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\obj\Debug\net6.0\p12 - CalculaPoupanca2.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\obj\Debug\net6.0\p12 - CalculaPoupanca2.AssemblyInfo.cs
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\obj\Debug\net6.0\p12 - CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\obj\Debug\net6.0\p12 - CalculaPoupanca2.dll
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\obj\Debug\net6.0\refint\p12 - CalculaPoupanca2.dll
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\obj\Debug\net6.0\p12 - CalculaPoupanca2.pdb
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\obj\Debug\net6.0\p12 - CalculaPoupanca2.genruntimeconfig.cache
+C:\Users\italo\source\repos\iniciandoCSharp\p12 - CalculaPoupanca2\obj\Debug\net6.0\ref\p12 - CalculaPoupanca2.dll

@@ -1,0 +1,15 @@
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\bin\Debug\net6.0\7 - AtribuicoesDeVariaveis.exe
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\bin\Debug\net6.0\7 - AtribuicoesDeVariaveis.deps.json
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\bin\Debug\net6.0\7 - AtribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\bin\Debug\net6.0\7 - AtribuicoesDeVariaveis.dll
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\bin\Debug\net6.0\7 - AtribuicoesDeVariaveis.pdb
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\obj\Debug\net6.0\7 - AtribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\obj\Debug\net6.0\7 - AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\obj\Debug\net6.0\7 - AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\obj\Debug\net6.0\7 - AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\obj\Debug\net6.0\7 - AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\obj\Debug\net6.0\7 - AtribuicoesDeVariaveis.dll
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\obj\Debug\net6.0\refint\7 - AtribuicoesDeVariaveis.dll
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\obj\Debug\net6.0\7 - AtribuicoesDeVariaveis.pdb
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\obj\Debug\net6.0\7 - AtribuicoesDeVariaveis.genruntimeconfig.cache
+C:\Users\italo\source\repos\iniciandoCSharp\7 - AtribuicoesDeVariaveis\obj\Debug\net6.0\ref\7 - AtribuicoesDeVariaveis.dll
