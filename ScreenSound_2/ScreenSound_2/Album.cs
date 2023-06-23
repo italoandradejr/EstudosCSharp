@@ -28,6 +28,6 @@ class Album
         {
             Console.WriteLine($"Música: {musica.Nome}");
         }
-        Console.WriteLine($"Para ouvir este ábum inteiro você precisa de {DuracaoTotal}");
+        Console.WriteLine($"Para ouvir este ábum inteiro você precisa do {DuracaoTotal}");
     }
 }

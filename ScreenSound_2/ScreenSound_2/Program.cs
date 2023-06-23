@@ -29,3 +29,21 @@ musica1.ExibirFichaTecnica();
 musica2.ExibirFichaTecnica();
 albumDoQueen.ExibirMusicasDoAlbum();
 queen.ExibirDiscografia();
+
+Console.WriteLine("************************************************");
+
+Episodio ep1 = new(1, "Técnicas de facilitação", 45);
+ep1.AdicionarConvidados("Maria");
+ep1.AdicionarConvidados("Marcelo");
+//Console.WriteLine(ep1.Resumo);
+
+Episodio ep2 = new(1, "Técnicas de aprendizado", 67);
+ep2.AdicionarConvidados("Italo");
+ep2.AdicionarConvidados("Luiz");
+ep2.AdicionarConvidados("Hugo");
+//Console.WriteLine(ep2.Resumo);
+
+Podcast podcast = new("Podcast especial", "Daniel");
+podcast.AdicionarEpisodio(ep1);
+podcast.AdicionarEpisodio(ep2);
+podcast.ExibirDetalhes();
