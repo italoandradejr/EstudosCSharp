@@ -37,7 +37,7 @@ ep1.AdicionarConvidados("Maria");
 ep1.AdicionarConvidados("Marcelo");
 //Console.WriteLine(ep1.Resumo);
 
-Episodio ep2 = new(1, "Técnicas de aprendizado", 67);
+Episodio ep2 = new(2, "Técnicas de aprendizado", 67);
 ep2.AdicionarConvidados("Italo");
 ep2.AdicionarConvidados("Luiz");
 ep2.AdicionarConvidados("Hugo");

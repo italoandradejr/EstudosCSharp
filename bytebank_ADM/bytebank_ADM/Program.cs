@@ -1,26 +1,58 @@
 ﻿using bytebank_ADM.Funcionarios;
 using bytebank_ADM.Utilitario;
 
-Funcionario pedro = new Funcionario();
-pedro.Nome = "Pedro Malazartes";
-pedro.Cpf = "524857525-78";
-pedro.Salario = 2000.00;
+#region
+//Funcionario pedro = new Funcionario("524857525-78", 2000);
+//pedro.Nome = "Pedro Malazartes";
 
 //Console.WriteLine(pedro.Nome);
 //Console.WriteLine(pedro.GetBonificacao());
 
 
-Diretor roberta = new Diretor();
-roberta.Nome = "Roberta Silva";
-roberta.Cpf = "587584852-74";
-roberta.Salario = 5000.00;
+//Diretor roberta = new Diretor("587584852-74");
+//roberta.Nome = "Roberta Silva";
+
 
 //Console.WriteLine(roberta.Nome);
 //Console.WriteLine(roberta.GetBonificacao());
 
 
-GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
-gerenciador.Registrar(pedro);
-gerenciador.Registrar(roberta);
+//GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
+//gerenciador.Registrar(pedro);
+//gerenciador.Registrar(roberta);
 
-Console.WriteLine("Total de bonificações: " + gerenciador.TotalDeBonificacao);
+//Console.WriteLine("Total de bonificações: " + gerenciador.TotalDeBonificacao);
+//Console.WriteLine("Total de Funcionarios: " + Funcionario.TotalDeFuncionarios);
+
+//pedro.AumentarSalario();
+//roberta.AumentarSalario();
+
+//Console.WriteLine("Novo salário do Pedro: " + pedro.Salario);
+//Console.WriteLine("Novo salário Roberta " + roberta.Salario);
+#endregion
+
+CalcularBonificacao();
+
+void CalcularBonificacao ()
+{
+    GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao ();
+
+    Designer ulisses = new Designer ("1254879");
+    ulisses.Nome = "Ulisses Souza";
+
+    Diretor paula = new Diretor("4658561");
+    paula.Nome = "Paula Souza";
+
+    Auxiliar igor = new Auxiliar("16486856456");
+    igor.Nome = "Igor Dias";
+
+    GerenteDeContas camila = new GerenteDeContas("415656156816");
+    camila.Nome = "Camila Oliveira";
+
+    gerenciador.Registrar(camila);
+    gerenciador.Registrar(igor);
+    gerenciador.Registrar(paula);
+    gerenciador.Registrar(ulisses);
+
+    Console.WriteLine("Total de Bonificação = " + gerenciador.TotalDeBonificacao);
+}
