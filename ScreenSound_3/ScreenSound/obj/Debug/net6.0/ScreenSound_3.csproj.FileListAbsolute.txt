@@ -13,3 +13,16 @@ C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\obj\Debug\net6.0\refint\Sc
 C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\obj\Debug\net6.0\ScreenSound_3.pdb
 C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\obj\Debug\net6.0\ScreenSound_3.genruntimeconfig.cache
 C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\obj\Debug\net6.0\ref\ScreenSound_3.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\italo\source\repos\ScreenSound_3\ScreenSound\obj\Debug\net6.0\ScreenSound_3.csproj.CopyComplete
