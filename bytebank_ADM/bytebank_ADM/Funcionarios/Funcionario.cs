@@ -26,10 +26,5 @@ namespace bytebank_ADM.Funcionarios
 
         public abstract void AumentarSalario();
 
-        public string Senha { get; set; }
-        public bool Autenticar(string senha)
-        {
-            return this.Senha == senha;
-        }
     }
 }
