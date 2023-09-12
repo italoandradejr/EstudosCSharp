@@ -113,22 +113,13 @@ void TestaArrayDeContasCorrentes2 ()
         listaDeContas.Adicionar(new ContaCorrente(874, "4456668-B"));
         listaDeContas.Adicionar(new ContaCorrente(874, "7781438-C"));
 
+    var contaDoAndre = new ContaCorrente(963, "123456-X");
 
-    /*
-    ContaCorrente[] listaDeContas = new ContaCorrente[]
-    {
-        new ContaCorrente(874, "5679787-A"),
-        new ContaCorrente(874, "4456668-B"),
-        new ContaCorrente(874, "7781438-C")
-    };
+    listaDeContas.Adicionar(contaDoAndre);
+    listaDeContas.ExibeLista();
+    listaDeContas.Remover(contaDoAndre);
 
-    
-    for (int i = 0; i < listaDeContas.Length; i++)
-    {
-        ContaCorrente contaAtual = listaDeContas[i];
-        Console.WriteLine($"Índice {i} - Conta: {contaAtual.Conta}");
-    }
-    */
+
 }
 
 TestaArrayDeContasCorrentes2();
