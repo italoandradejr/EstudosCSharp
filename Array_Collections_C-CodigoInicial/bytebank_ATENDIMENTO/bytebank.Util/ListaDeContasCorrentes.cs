@@ -52,6 +52,26 @@ namespace bytebank_ATENDIMENTO.bytebank.Util
                     break;
                 }
             }
+
+            for (int i = indiceItem; i < _proximaPosicao-1; i++)
+            {
+                _itens[i] = _itens[i+1];
+            }
+            _proximaPosicao--;
+            _itens[_proximaPosicao] = null;
         }
+
+        public void ExibeLista ()
+        {
+            for (int i = 0; i < _itens.Length; i++)
+            {
+                if (_itens[i] != null)
+                {
+                    var conta = _itens[i];
+                    Console.WriteLine($"Indice [{i}] = Conta: {conta.Conta} - N da Agencia: {conta.Numero_agencia}");
+                }
+            }
+        }
+
     }
 }
