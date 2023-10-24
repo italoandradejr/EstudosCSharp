@@ -24,10 +24,15 @@ class Program
     {
         var utf8 = new UTF8Encoding();
 
+        var texto = utf8.GetString(buffer);
+        Console.Write(texto);
+
+        /*
         foreach(var meuByte in buffer)
         {
             Console.Write(meuByte);
-            Console.WriteLine(" ");
+            Console.Write(" ");
         }
+        */
     }
 }
