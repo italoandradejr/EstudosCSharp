@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\italo.andrade\\.nuget\\packages\\": {}
+    "C:\\Users\\italo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj",
+      "projectUniqueName": "C:\\Users\\italo\\source\\repos\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj",
       "projectName": "bytebank_GeradorChavePix",
-      "projectPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj",
-      "packagesPath": "C:\\Users\\italo.andrade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\obj\\",
+      "projectPath": "C:\\Users\\italo\\source\\repos\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj",
+      "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\italo\\source\\repos\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\italo.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
