@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = bytebank_GeradorChavePix
-build_property.ProjectDir = C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\bytebank_GeradorChavePix\bytebank_GeradorChavePix\
+build_property.ProjectDir = C:\Users\italo\source\repos\bytebank_GeradorChavePix\bytebank_GeradorChavePix\
