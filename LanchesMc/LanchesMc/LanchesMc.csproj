@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Views\Lanche\" />
-    <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
   <ItemGroup>
