@@ -1,7 +1,7 @@
 ﻿using LanchesMc.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using LanchesMc.Models;
-using LanchesMac.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace LanchesMc.Controllers
 {
@@ -16,13 +16,15 @@ namespace LanchesMc.Controllers
             _carrinhoCompra = carrinhoCompra;
         }
 
+        [Authorize]
         [HttpGet]
         public IActionResult Checkout() 
         {
             return View();
         }
 
-        [HttpPost]
+		[Authorize]
+		[HttpPost]
         public IActionResult Checkout(Pedido pedido)
         {
             int totalItensPedido = 0;
@@ -33,13 +35,13 @@ namespace LanchesMc.Controllers
             _carrinhoCompra.CarrinhoCompraItems = items;
 
             //verifica se existem itens de pedido
-            if(_carrinhoCompra.CarrinhoCompraItems.Count == 0)
+            if (_carrinhoCompra.CarrinhoCompraItems.Count == 0)
             {
                 ModelState.AddModelError("", "seu carrinho está vazio, que tal incluir um lanche...");
             }
 
             //calcular o total de itens e  o total do pedido
-            foreach(var item in items)
+            foreach (var item in items)
             {
                 totalItensPedido += item.Quantidade;
                 precoTotalPedido += (item.Lanche.Preco * item.Quantidade);
@@ -49,7 +51,7 @@ namespace LanchesMc.Controllers
                 pedido.PedidoTotal = precoTotalPedido;
 
                 //validar os dados do pedido
-                if(ModelState.IsValid)
+                if (ModelState.IsValid)
                 {
                     //cria o pedido e os detalhes
                     _pedidoRepository.CriarPedido(pedido);
@@ -64,8 +66,8 @@ namespace LanchesMc.Controllers
                     //exibe a view com dados do cliente e do pedido
                     return View("~/Views/Pedido/CheckoutCompleto.cshtml", pedido);
                 }
-                return View(pedido);
             }
+            return View(pedido);
         }
     }
 }

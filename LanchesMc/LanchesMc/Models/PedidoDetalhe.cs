@@ -1,7 +1,7 @@
 ﻿using LanchesMc.Models;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace LanchesMac.Models
+namespace LanchesMc.Models
 {
     public class PedidoDetalhe
     {

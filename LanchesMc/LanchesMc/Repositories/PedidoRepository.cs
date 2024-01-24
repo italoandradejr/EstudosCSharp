@@ -1,5 +1,4 @@
-﻿using LanchesMac.Models;
-using LanchesMc.Context;
+﻿using LanchesMc.Context;
 using LanchesMc.Models;
 using LanchesMc.Repositories.Interfaces;
 

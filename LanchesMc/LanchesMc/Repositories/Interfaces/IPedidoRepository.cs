@@ -1,4 +1,4 @@
-﻿using LanchesMac.Models;
+﻿using LanchesMc.Models;
 
 namespace LanchesMc.Repositories.Interfaces
 {
