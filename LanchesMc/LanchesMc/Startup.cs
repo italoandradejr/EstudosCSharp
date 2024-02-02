@@ -2,8 +2,10 @@
 using LanchesMc.Models;
 using LanchesMc.Repositories;
 using LanchesMc.Repositories.Interfaces;
+using LanchesMc.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using ReflectionIT.Mvc.Paging;
 
 namespace LanchesMc;
 public class Startup
@@ -39,18 +41,35 @@ public class Startup
         services.AddTransient<ILancheRepository, LancheRepository>();
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
         services.AddTransient<IPedidoRepository, PedidoRepository>();
+        services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+
+        services.AddAuthorization(options =>
+        {
+            options.AddPolicy("Admin",
+                politica =>
+                {
+                    politica.RequireRole("Admin");
+                });
+        });
+
 
         services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
 
         services.AddControllersWithViews();
 
+        services.AddPaging(options =>
+        {
+            options.ViewName = "Bootstrap4";
+            options.PageParameterName = "pageindex"; 
+        });
+
         services.AddMemoryCache();
         services.AddSession();
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-    public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+    public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ISeedUserRoleInitial seedUserRoleInitial)
     {
         if (env.IsDevelopment())
         {
@@ -66,7 +85,13 @@ public class Startup
         app.UseStaticFiles();
 
         app.UseRouting();
-        
+
+        //cria os perfis
+        seedUserRoleInitial.SeedRoles();
+        //cria os usuários e atribui ao perfil
+        seedUserRoleInitial.SeedUsers();
+
+
         app.UseSession();
         
         app.UseAuthentication();
@@ -74,7 +99,11 @@ public class Startup
 
         app.UseEndpoints(endpoints =>
         {
-            endpoints.MapControllerRoute(
+			endpoints.MapControllerRoute(
+			name: "areas",
+			pattern: "{area:exists}/{controller=Admin}/{action=Index}/{id?}");
+
+			endpoints.MapControllerRoute(
                 name: "categoriaFiltro",
                 pattern: "Lanche{action}/{categoria}",
                 defaults: new { controller = "Lanche", Action = "List" });
