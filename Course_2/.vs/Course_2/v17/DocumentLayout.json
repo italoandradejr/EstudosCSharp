@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Course_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF00D0B1-0158-4DD4-9006-D344D87618C4}|Course_2\\Course_2.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\course_2\\course_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF00D0B1-0158-4DD4-9006-D344D87618C4}|Course_2\\Course_2.csproj|solutionrelative:course_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF00D0B1-0158-4DD4-9006-D344D87618C4}|Course_2\\Course_2.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\course_2\\course_2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF00D0B1-0158-4DD4-9006-D344D87618C4}|Course_2\\Course_2.csproj|solutionrelative:course_2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Course_2\\Course_2\\Employee.cs",
+              "RelativeDocumentMoniker": "Course_2\\Employee.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Course_2\\Course_2\\Employee.cs",
+              "RelativeToolTip": "Course_2\\Employee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:50:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Course_2\\Course_2\\Program.cs",
+              "RelativeDocumentMoniker": "Course_2\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Course_2\\Course_2\\Program.cs",
+              "RelativeToolTip": "Course_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:50:10.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

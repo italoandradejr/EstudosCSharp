@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Course
 {
-    struct Point
+     class Product
     {
-        
+        public string Name { get; set; }
+        public double Price { get; set; }
     }
 }
