@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\bin\Debug\net8.0\Enumeracoes.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\bin\Debug\net8.0\Enumeracoes.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\bin\Debug\net8.0\Enumeracoes.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\bin\Debug\net8.0\Enumeracoes.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\bin\Debug\net8.0\Enumeracoes.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\obj\Debug\net8.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\obj\Debug\net8.0\Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\obj\Debug\net8.0\Enumeracoes.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\obj\Debug\net8.0\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\obj\Debug\net8.0\Enumeracoes.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\obj\Debug\net8.0\Enumeracoes.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\obj\Debug\net8.0\refint\Enumeracoes.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\obj\Debug\net8.0\Enumeracoes.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\obj\Debug\net8.0\Enumeracoes.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Enumeraçoes\Enumeraçoes\obj\Debug\net8.0\ref\Enumeracoes.dll

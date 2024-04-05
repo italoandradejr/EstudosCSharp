@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\LanchesMc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5597953E-3583-4BDA-9883-F49AEEEFD259}|LanchesMc\\LanchesMc.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\lanchesmc\\lanchesmc\\areas\\admin\\controllers\\adminlanchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5597953E-3583-4BDA-9883-F49AEEEFD259}|LanchesMc\\LanchesMc.csproj|solutionrelative:lanchesmc\\areas\\admin\\controllers\\adminlanchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5597953E-3583-4BDA-9883-F49AEEEFD259}|LanchesMc\\LanchesMc.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\lanchesmc\\lanchesmc\\areas\\admin\\views\\adminlanches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5597953E-3583-4BDA-9883-F49AEEEFD259}|LanchesMc\\LanchesMc.csproj|solutionrelative:lanchesmc\\areas\\admin\\views\\adminlanches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5597953E-3583-4BDA-9883-F49AEEEFD259}|LanchesMc\\LanchesMc.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\lanchesmc\\lanchesmc\\areas\\admin\\views\\adminlanches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5597953E-3583-4BDA-9883-F49AEEEFD259}|LanchesMc\\LanchesMc.csproj|solutionrelative:lanchesmc\\areas\\admin\\views\\adminlanches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\LanchesMc\\LanchesMc\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LanchesMc\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\LanchesMc\\LanchesMc\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "RelativeToolTip": "LanchesMc\\Areas\\Admin\\Views\\AdminLanches\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T20:03:04.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\LanchesMc\\LanchesMc\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanchesMc\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\LanchesMc\\LanchesMc\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "RelativeToolTip": "LanchesMc\\Areas\\Admin\\Views\\AdminLanches\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T19:50:12.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLanchesController.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\LanchesMc\\LanchesMc\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "RelativeDocumentMoniker": "LanchesMc\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\LanchesMc\\LanchesMc\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "RelativeToolTip": "LanchesMc\\Areas\\Admin\\Controllers\\AdminLanchesController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwDoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T16:36:13.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
