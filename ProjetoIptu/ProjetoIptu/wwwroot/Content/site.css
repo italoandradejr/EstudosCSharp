@@ -1,0 +1,52 @@
+﻿/* Estilos para a página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o contêiner */
+.container {
+    margin-top: 20px;
+    width: 100%;
+}
+
+/* Estilos para o cabeçalho */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Estilos para o conteúdo */
+.content {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+/* Estilos para os grupos de pesquisa */
+.group-container {
+    margin-bottom: 20px;
+}
+
+/* Estilos para os rótulos dos campos */
+.form-group label {
+    display: inline-block;
+    width: 150px;
+    font-size: 14px; /* Tamanho da fonte reduzido */
+}
+
+/* Estilos para os campos de entrada */
+.form-group input[type="text"],
+.form-group input[type="date"] {
+    width: calc(100% - 160px);
+}
+
+/* Estilos para o grupo 2 */
+.group-container.group-2 {
+    padding-top: 20px; /* Adiciona mais espaçamento acima do grupo 2 */
+}
+
+    .group-container.group-2 .form-group label {
+        font-size: 12px; /* Tamanho da fonte reduzido para o grupo 2 */
+    }

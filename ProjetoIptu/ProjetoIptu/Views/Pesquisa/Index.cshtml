@@ -1,0 +1,47 @@
+﻿@model ProjetoIptu.Models.PesquisaViewModel
+
+@{
+    ViewBag.Title = "Pesquisa Imóveis";
+}
+
+<h2>Pesquisa</h2>
+
+@using (Html.BeginForm("Resultado", "Pesquisa", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Grupo 1</h3>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Proprietario)
+                @Html.TextBoxFor(model => model.Proprietario)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Grupo)
+                @Html.TextBoxFor(model => model.Grupo)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.DataInicio, "Data Inicial")
+                @Html.TextBoxFor(model => model.DataInicio, "{0:yyyy-MM-dd}", new { type = "date" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.DataFim, "Data Final")
+                @Html.TextBoxFor(model => model.DataFim, "{0:yyyy-MM-dd}", new { type = "date" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Empreendimento)
+                @Html.TextBoxFor(model => model.Empreendimento)
+            </div>
+            <button type="submit" class="btn btn-primary">Pesquisar Grupo 1</button>
+        </div>
+    </div>
+    <div class="row group-container group-2">
+        <div class="col-md-6">
+            <h3>Grupo 2</h3>
+            <div class="form-group">
+                @Html.LabelFor(model => model.ContribuinteImovel, "Contribuinte / Imóvel")
+                @Html.TextBoxFor(model => model.ContribuinteImovel)
+            </div>
+            <button type="submit" class="btn btn-primary">Pesquisar Grupo 2</button>
+        </div>
+    </div>
+}

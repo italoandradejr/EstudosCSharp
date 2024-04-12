@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B3587F90-9E6B-4993-8EA3-1C9505C64B4B}|Ex_01_Udemy\\Ex_01_Udemy.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\ex_01_udemy\\ex_01_udemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3587F90-9E6B-4993-8EA3-1C9505C64B4B}|Ex_01_Udemy\\Ex_01_Udemy.csproj|solutionrelative:ex_01_udemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3587F90-9E6B-4993-8EA3-1C9505C64B4B}|Ex_01_Udemy\\Ex_01_Udemy.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\ex_01_udemy\\ex_01_udemy\\entities\\enums\\niveltrabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3587F90-9E6B-4993-8EA3-1C9505C64B4B}|Ex_01_Udemy\\Ex_01_Udemy.csproj|solutionrelative:ex_01_udemy\\entities\\enums\\niveltrabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3587F90-9E6B-4993-8EA3-1C9505C64B4B}|Ex_01_Udemy\\Ex_01_Udemy.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\ex_01_udemy\\ex_01_udemy\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3587F90-9E6B-4993-8EA3-1C9505C64B4B}|Ex_01_Udemy\\Ex_01_Udemy.csproj|solutionrelative:ex_01_udemy\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3587F90-9E6B-4993-8EA3-1C9505C64B4B}|Ex_01_Udemy\\Ex_01_Udemy.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\ex_01_udemy\\ex_01_udemy\\entities\\contratodehora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3587F90-9E6B-4993-8EA3-1C9505C64B4B}|Ex_01_Udemy\\Ex_01_Udemy.csproj|solutionrelative:ex_01_udemy\\entities\\contratodehora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3587F90-9E6B-4993-8EA3-1C9505C64B4B}|Ex_01_Udemy\\Ex_01_Udemy.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\ex_01_udemy\\ex_01_udemy\\entities\\trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3587F90-9E6B-4993-8EA3-1C9505C64B4B}|Ex_01_Udemy\\Ex_01_Udemy.csproj|solutionrelative:ex_01_udemy\\entities\\trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,76 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NivelTrabalhador.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\Ex_01_Udemy\\Entities\\Enums\\NivelTrabalhador.cs",
-              "RelativeDocumentMoniker": "Ex_01_Udemy\\Entities\\Enums\\NivelTrabalhador.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\Ex_01_Udemy\\Entities\\Enums\\NivelTrabalhador.cs",
-              "RelativeToolTip": "Ex_01_Udemy\\Entities\\Enums\\NivelTrabalhador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:57:12.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Trabalhador.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\Ex_01_Udemy\\Entities\\Trabalhador.cs",
-              "RelativeDocumentMoniker": "Ex_01_Udemy\\Entities\\Trabalhador.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\Ex_01_Udemy\\Entities\\Trabalhador.cs",
-              "RelativeToolTip": "Ex_01_Udemy\\Entities\\Trabalhador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:55:33.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContratoDeHora.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\Ex_01_Udemy\\Entities\\ContratoDeHora.cs",
-              "RelativeDocumentMoniker": "Ex_01_Udemy\\Entities\\ContratoDeHora.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\Ex_01_Udemy\\Entities\\ContratoDeHora.cs",
-              "RelativeToolTip": "Ex_01_Udemy\\Entities\\ContratoDeHora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:40:53.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\Ex_01_Udemy\\Entities\\Departamento.cs",
-              "RelativeDocumentMoniker": "Ex_01_Udemy\\Entities\\Departamento.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\Ex_01_Udemy\\Entities\\Departamento.cs",
-              "RelativeToolTip": "Ex_01_Udemy\\Entities\\Departamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:36:27.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\Ex_01_Udemy\\Program.cs",
-              "RelativeDocumentMoniker": "Ex_01_Udemy\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Ex_01_Udemy\\Ex_01_Udemy\\Program.cs",
-              "RelativeToolTip": "Ex_01_Udemy\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:30:22.995Z",
-              "EditorCaption": ""
             }
           ]
         }
