@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\obj\Debug\net8.0\Udemy_ExFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\obj\Debug\net8.0\Udemy_ExFixacao.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\obj\Debug\net8.0\Udemy_ExFixacao.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\obj\Debug\net8.0\Udemy_ExFixacao.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\obj\Debug\net8.0\Udemy_ExFixacao.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\bin\Debug\net8.0\Udemy_ExFixacao.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\bin\Debug\net8.0\Udemy_ExFixacao.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\bin\Debug\net8.0\Udemy_ExFixacao.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\bin\Debug\net8.0\Udemy_ExFixacao.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\bin\Debug\net8.0\Udemy_ExFixacao.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\obj\Debug\net8.0\Udemy_ExFixacao.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\obj\Debug\net8.0\refint\Udemy_ExFixacao.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\obj\Debug\net8.0\Udemy_ExFixacao.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\obj\Debug\net8.0\Udemy_ExFixacao.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ExFixacao\Udemy_ExFixacao\obj\Debug\net8.0\ref\Udemy_ExFixacao.dll

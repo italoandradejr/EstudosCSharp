@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\bin\Debug\net8.0\Udemy_Heranca.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\bin\Debug\net8.0\Udemy_Heranca.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\bin\Debug\net8.0\Udemy_Heranca.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\bin\Debug\net8.0\Udemy_Heranca.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\bin\Debug\net8.0\Udemy_Heranca.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\obj\Debug\net8.0\Udemy_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\obj\Debug\net8.0\Udemy_Heranca.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\obj\Debug\net8.0\Udemy_Heranca.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\obj\Debug\net8.0\Udemy_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\obj\Debug\net8.0\Udemy_Heranca.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\obj\Debug\net8.0\Udemy_Heranca.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\obj\Debug\net8.0\refint\Udemy_Heranca.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\obj\Debug\net8.0\Udemy_Heranca.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\obj\Debug\net8.0\Udemy_Heranca.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_Heranca\Udemy_Heranca\obj\Debug\net8.0\ref\Udemy_Heranca.dll

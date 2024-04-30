@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\udemy_exfixacao\\udemy_exfixacao\\entities\\enums\\ordemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|solutionrelative:udemy_exfixacao\\entities\\enums\\ordemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\udemy_exfixacao\\udemy_exfixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|solutionrelative:udemy_exfixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\udemy_exfixacao\\udemy_exfixacao\\entities\\ordem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|solutionrelative:udemy_exfixacao\\entities\\ordem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\udemy_exfixacao\\udemy_exfixacao\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|solutionrelative:udemy_exfixacao\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\udemy_exfixacao\\udemy_exfixacao\\entities\\ordemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|solutionrelative:udemy_exfixacao\\entities\\ordemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\udemy_exfixacao\\udemy_exfixacao\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EC38F3-AAA4-4EF8-A629-3410C9E013B1}|Udemy_ExFixacao\\Udemy_ExFixacao.csproj|solutionrelative:udemy_exfixacao\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Udemy_ExFixacao\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Entities\\Produto.cs",
+              "RelativeToolTip": "Udemy_ExFixacao\\Entities\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:18:47.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdemItem.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Entities\\OrdemItem.cs",
+              "RelativeDocumentMoniker": "Udemy_ExFixacao\\Entities\\OrdemItem.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Entities\\OrdemItem.cs",
+              "RelativeToolTip": "Udemy_ExFixacao\\Entities\\OrdemItem.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:15:28.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdemStatus.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Entities\\Enums\\OrdemStatus.cs",
+              "RelativeDocumentMoniker": "Udemy_ExFixacao\\Entities\\Enums\\OrdemStatus.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Entities\\Enums\\OrdemStatus.cs",
+              "RelativeToolTip": "Udemy_ExFixacao\\Entities\\Enums\\OrdemStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:08:34.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ordem.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Entities\\Ordem.cs",
+              "RelativeDocumentMoniker": "Udemy_ExFixacao\\Entities\\Ordem.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Entities\\Ordem.cs",
+              "RelativeToolTip": "Udemy_ExFixacao\\Entities\\Ordem.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:05:54.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Udemy_ExFixacao\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Udemy_ExFixacao\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:50:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "Udemy_ExFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ExFixacao\\Udemy_ExFixacao\\Program.cs",
+              "RelativeToolTip": "Udemy_ExFixacao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:47:23.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

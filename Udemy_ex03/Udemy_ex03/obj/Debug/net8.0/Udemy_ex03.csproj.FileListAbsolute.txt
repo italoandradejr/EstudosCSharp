@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\bin\Debug\net8.0\Udemy_ex03.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\bin\Debug\net8.0\Udemy_ex03.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\bin\Debug\net8.0\Udemy_ex03.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\bin\Debug\net8.0\Udemy_ex03.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\bin\Debug\net8.0\Udemy_ex03.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\obj\Debug\net8.0\Udemy_ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\obj\Debug\net8.0\Udemy_ex03.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\obj\Debug\net8.0\Udemy_ex03.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\obj\Debug\net8.0\Udemy_ex03.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\obj\Debug\net8.0\Udemy_ex03.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\obj\Debug\net8.0\Udemy_ex03.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\obj\Debug\net8.0\refint\Udemy_ex03.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\obj\Debug\net8.0\Udemy_ex03.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\obj\Debug\net8.0\Udemy_ex03.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_ex03\Udemy_ex03\obj\Debug\net8.0\ref\Udemy_ex03.dll
