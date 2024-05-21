@@ -10,7 +10,6 @@ namespace Udemy_ex03.Entities
     {
         public string Nome { get; set; }
         public int Horas { get; set;}
-
         public double ValorPorHora { get; set; }
 
         public Funcionarios() { }
@@ -23,7 +22,7 @@ namespace Udemy_ex03.Entities
         }
 
 
-        public virtual double Pagamento ()
+        public virtual double Pagamento()
         {
             return Horas * ValorPorHora;
         }

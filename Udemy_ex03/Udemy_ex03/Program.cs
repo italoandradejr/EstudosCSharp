@@ -16,7 +16,7 @@ namespace Udemy_ex03
 
             for(int i = 1; i <= n; i++)
             {
-                Console.WriteLine($"Dados de Funcionario #{i}: ");
+                Console.WriteLine($"Dados de Funcionario N°{i}: ");
 
                 Console.Write("É Tercerizado?(y/n): ");
                 char ch = char.Parse(Console.ReadLine());
@@ -50,8 +50,6 @@ namespace Udemy_ex03
             {
                 Console.WriteLine(emp.Nome + " - $ " + emp.Pagamento().ToString("F2", CultureInfo.InvariantCulture));
             }
-
-
         }
     }
 }

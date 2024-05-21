@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\IptuTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD9E925-E503-4D7C-8A43-EEE31ED17806}|IptuTeste.rptproj|C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\IptuTeste\\RelatorioTesteIptu.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{FBD9E925-E503-4D7C-8A43-EEE31ED17806}|IptuTeste.rptproj|solutionrelative:RelatorioTesteIptu.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelatorioTesteIptu.rdl [Criar]",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\IptuTeste\\RelatorioTesteIptu.rdl",
+              "RelativeDocumentMoniker": "RelatorioTesteIptu.rdl",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\IptuTeste\\RelatorioTesteIptu.rdl [Criar]",
+              "RelativeToolTip": "RelatorioTesteIptu.rdl [Criar]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-03T14:59:05.712Z",
+              "EditorCaption": " [Criar]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

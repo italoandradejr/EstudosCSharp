@@ -15,7 +15,6 @@ namespace ProjetoIptu.Controllers
         }
 
 
-
         [HttpPost]
         public IActionResult Resultado(PesquisaViewModel model)
         {
@@ -142,9 +141,6 @@ namespace ProjetoIptu.Controllers
 
             return View(resultados);
         }
-
-
-
 
     }
 }

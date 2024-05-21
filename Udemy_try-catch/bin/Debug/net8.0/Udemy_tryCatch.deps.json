@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Udemy_tryCatch/1.0.0": {
+        "runtime": {
+          "Udemy_tryCatch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Udemy_tryCatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

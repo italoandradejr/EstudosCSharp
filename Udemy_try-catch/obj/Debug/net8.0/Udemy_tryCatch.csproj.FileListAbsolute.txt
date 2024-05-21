@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\bin\Debug\net8.0\Udemy_tryCatch.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\bin\Debug\net8.0\Udemy_tryCatch.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\bin\Debug\net8.0\Udemy_tryCatch.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\bin\Debug\net8.0\Udemy_tryCatch.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\bin\Debug\net8.0\Udemy_tryCatch.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\obj\Debug\net8.0\Udemy_tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\obj\Debug\net8.0\Udemy_tryCatch.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\obj\Debug\net8.0\Udemy_tryCatch.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\obj\Debug\net8.0\Udemy_tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\obj\Debug\net8.0\Udemy_tryCatch.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\obj\Debug\net8.0\Udemy_tryCatch.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\obj\Debug\net8.0\refint\Udemy_tryCatch.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\obj\Debug\net8.0\Udemy_tryCatch.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\obj\Debug\net8.0\Udemy_tryCatch.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Udemy_try-catch\obj\Debug\net8.0\ref\Udemy_tryCatch.dll

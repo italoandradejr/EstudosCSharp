@@ -2,7 +2,7 @@
 
 namespace Udemy_Heranca.Entities
 {
-     class Conta
+      class Conta
      {
         public int Numero { get; private set; }
         public string Titular { get; private set; }

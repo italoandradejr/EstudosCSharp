@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{ABD6D8F7-5675-4AA0-8874-733D507A2C46}|Udemy_ex03\\Udemy_ex03.csproj|solutionrelative:udemy_ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABD6D8F7-5675-4AA0-8874-733D507A2C46}|Udemy_ex03\\Udemy_ex03.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\udemy_ex03\\udemy_ex03\\entities\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD6D8F7-5675-4AA0-8874-733D507A2C46}|Udemy_ex03\\Udemy_ex03.csproj|solutionrelative:udemy_ex03\\entities\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABD6D8F7-5675-4AA0-8874-733D507A2C46}|Udemy_ex03\\Udemy_ex03.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\udemy_ex03\\udemy_ex03\\entities\\funcionariotercerizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABD6D8F7-5675-4AA0-8874-733D507A2C46}|Udemy_ex03\\Udemy_ex03.csproj|solutionrelative:udemy_ex03\\entities\\funcionariotercerizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD6D8F7-5675-4AA0-8874-733D507A2C46}|Udemy_ex03\\Udemy_ex03.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\udemy_ex03\\udemy_ex03\\entities\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD6D8F7-5675-4AA0-8874-733D507A2C46}|Udemy_ex03\\Udemy_ex03.csproj|solutionrelative:udemy_ex03\\entities\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FuncionarioTercerizado.cs",
               "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ex03\\Udemy_ex03\\Entities\\FuncionarioTercerizado.cs",
               "RelativeDocumentMoniker": "Udemy_ex03\\Entities\\FuncionarioTercerizado.cs",
               "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ex03\\Udemy_ex03\\Entities\\FuncionarioTercerizado.cs",
               "RelativeToolTip": "Udemy_ex03\\Entities\\FuncionarioTercerizado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T18:49:50.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Funcionarios.cs",
               "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ex03\\Udemy_ex03\\Entities\\Funcionarios.cs",
               "RelativeDocumentMoniker": "Udemy_ex03\\Entities\\Funcionarios.cs",
               "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ex03\\Udemy_ex03\\Entities\\Funcionarios.cs",
               "RelativeToolTip": "Udemy_ex03\\Entities\\Funcionarios.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwvxMAAAAUAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T18:33:33.067Z",
               "EditorCaption": ""
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "Udemy_ex03\\Program.cs",
               "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Udemy_ex03\\Udemy_ex03\\Program.cs",
               "RelativeToolTip": "Udemy_ex03\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T18:28:37.847Z",
               "EditorCaption": ""
