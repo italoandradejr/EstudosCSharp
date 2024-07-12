@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\bin\Debug\net8.0\PrimeiroProjetoUdemy.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\bin\Debug\net8.0\PrimeiroProjetoUdemy.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\bin\Debug\net8.0\PrimeiroProjetoUdemy.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\bin\Debug\net8.0\PrimeiroProjetoUdemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\bin\Debug\net8.0\PrimeiroProjetoUdemy.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\obj\Debug\net8.0\PrimeiroProjetoUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\obj\Debug\net8.0\PrimeiroProjetoUdemy.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\obj\Debug\net8.0\PrimeiroProjetoUdemy.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\obj\Debug\net8.0\PrimeiroProjetoUdemy.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\obj\Debug\net8.0\PrimeiroProjetoUdemy.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\obj\Debug\net8.0\PrimeiroProjetoUdemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\obj\Debug\net8.0\refint\PrimeiroProjetoUdemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\obj\Debug\net8.0\PrimeiroProjetoUdemy.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\obj\Debug\net8.0\PrimeiroProjetoUdemy.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\PrimeiroProjetoUdemy\obj\Debug\net8.0\ref\PrimeiroProjetoUdemy.dll

@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\models\\pesquisaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\views\\pesquisa\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\views\\pesquisa\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\views\\pesquisa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\views\\pesquisa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\views\\pesquisa\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\views\\pesquisa\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "ProjetoIptu\\Controllers\\PesquisaController.cs",
               "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Controllers\\PesquisaController.cs",
               "RelativeToolTip": "ProjetoIptu\\Controllers\\PesquisaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T13:04:22.04Z",
               "EditorCaption": ""
@@ -60,26 +60,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Views\\Pesquisa\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoIptu\\Views\\Pesquisa\\Index.cshtml",
               "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Views\\Pesquisa\\Index.cshtml",
               "RelativeToolTip": "ProjetoIptu\\Views\\Pesquisa\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA8AAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-12T18:37:51.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Resultado.cshtml",
               "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Views\\Pesquisa\\Resultado.cshtml",
               "RelativeDocumentMoniker": "ProjetoIptu\\Views\\Pesquisa\\Resultado.cshtml",
               "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Views\\Pesquisa\\Resultado.cshtml",
               "RelativeToolTip": "ProjetoIptu\\Views\\Pesquisa\\Resultado.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-12T15:32:50.914Z",
               "EditorCaption": ""
