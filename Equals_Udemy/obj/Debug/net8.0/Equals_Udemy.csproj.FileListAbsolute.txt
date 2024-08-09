@@ -1,0 +1,14 @@
+C:\Users\italo.andrade\source\repos\Equals_Udemy\bin\Debug\net8.0\Equals_Udemy.exe
+C:\Users\italo.andrade\source\repos\Equals_Udemy\bin\Debug\net8.0\Equals_Udemy.deps.json
+C:\Users\italo.andrade\source\repos\Equals_Udemy\bin\Debug\net8.0\Equals_Udemy.runtimeconfig.json
+C:\Users\italo.andrade\source\repos\Equals_Udemy\bin\Debug\net8.0\Equals_Udemy.dll
+C:\Users\italo.andrade\source\repos\Equals_Udemy\bin\Debug\net8.0\Equals_Udemy.pdb
+C:\Users\italo.andrade\source\repos\Equals_Udemy\obj\Debug\net8.0\Equals_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\source\repos\Equals_Udemy\obj\Debug\net8.0\Equals_Udemy.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\source\repos\Equals_Udemy\obj\Debug\net8.0\Equals_Udemy.AssemblyInfo.cs
+C:\Users\italo.andrade\source\repos\Equals_Udemy\obj\Debug\net8.0\Equals_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\source\repos\Equals_Udemy\obj\Debug\net8.0\Equals_Udemy.dll
+C:\Users\italo.andrade\source\repos\Equals_Udemy\obj\Debug\net8.0\refint\Equals_Udemy.dll
+C:\Users\italo.andrade\source\repos\Equals_Udemy\obj\Debug\net8.0\Equals_Udemy.pdb
+C:\Users\italo.andrade\source\repos\Equals_Udemy\obj\Debug\net8.0\Equals_Udemy.genruntimeconfig.cache
+C:\Users\italo.andrade\source\repos\Equals_Udemy\obj\Debug\net8.0\ref\Equals_Udemy.dll

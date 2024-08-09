@@ -1,0 +1,14 @@
+C:\Users\italo.andrade\source\repos\Le_Arquivo\bin\Debug\net8.0\Stream_Arquivo.exe
+C:\Users\italo.andrade\source\repos\Le_Arquivo\bin\Debug\net8.0\Stream_Arquivo.deps.json
+C:\Users\italo.andrade\source\repos\Le_Arquivo\bin\Debug\net8.0\Stream_Arquivo.runtimeconfig.json
+C:\Users\italo.andrade\source\repos\Le_Arquivo\bin\Debug\net8.0\Stream_Arquivo.dll
+C:\Users\italo.andrade\source\repos\Le_Arquivo\bin\Debug\net8.0\Stream_Arquivo.pdb
+C:\Users\italo.andrade\source\repos\Le_Arquivo\obj\Debug\net8.0\Stream_Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\source\repos\Le_Arquivo\obj\Debug\net8.0\Stream_Arquivo.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\source\repos\Le_Arquivo\obj\Debug\net8.0\Stream_Arquivo.AssemblyInfo.cs
+C:\Users\italo.andrade\source\repos\Le_Arquivo\obj\Debug\net8.0\Stream_Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\source\repos\Le_Arquivo\obj\Debug\net8.0\Stream_Arquivo.dll
+C:\Users\italo.andrade\source\repos\Le_Arquivo\obj\Debug\net8.0\refint\Stream_Arquivo.dll
+C:\Users\italo.andrade\source\repos\Le_Arquivo\obj\Debug\net8.0\Stream_Arquivo.pdb
+C:\Users\italo.andrade\source\repos\Le_Arquivo\obj\Debug\net8.0\Stream_Arquivo.genruntimeconfig.cache
+C:\Users\italo.andrade\source\repos\Le_Arquivo\obj\Debug\net8.0\ref\Stream_Arquivo.dll

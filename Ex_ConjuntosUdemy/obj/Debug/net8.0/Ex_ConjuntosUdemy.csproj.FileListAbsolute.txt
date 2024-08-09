@@ -1,0 +1,14 @@
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\bin\Debug\net8.0\Ex_ConjuntosUdemy.exe
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\bin\Debug\net8.0\Ex_ConjuntosUdemy.deps.json
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\bin\Debug\net8.0\Ex_ConjuntosUdemy.runtimeconfig.json
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\bin\Debug\net8.0\Ex_ConjuntosUdemy.dll
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\bin\Debug\net8.0\Ex_ConjuntosUdemy.pdb
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\obj\Debug\net8.0\Ex_ConjuntosUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\obj\Debug\net8.0\Ex_ConjuntosUdemy.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\obj\Debug\net8.0\Ex_ConjuntosUdemy.AssemblyInfo.cs
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\obj\Debug\net8.0\Ex_ConjuntosUdemy.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\obj\Debug\net8.0\Ex_ConjuntosUdemy.dll
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\obj\Debug\net8.0\refint\Ex_ConjuntosUdemy.dll
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\obj\Debug\net8.0\Ex_ConjuntosUdemy.pdb
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\obj\Debug\net8.0\Ex_ConjuntosUdemy.genruntimeconfig.cache
+C:\Users\italo.andrade\source\repos\Ex_ConjuntosUdemy\obj\Debug\net8.0\ref\Ex_ConjuntosUdemy.dll

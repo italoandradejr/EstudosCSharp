@@ -1,0 +1,14 @@
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\bin\Debug\net8.0\SortedDictionary_Udemy.exe
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\bin\Debug\net8.0\SortedDictionary_Udemy.deps.json
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\bin\Debug\net8.0\SortedDictionary_Udemy.runtimeconfig.json
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\bin\Debug\net8.0\SortedDictionary_Udemy.dll
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\bin\Debug\net8.0\SortedDictionary_Udemy.pdb
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\obj\Debug\net8.0\SortedDictionary_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\obj\Debug\net8.0\SortedDictionary_Udemy.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\obj\Debug\net8.0\SortedDictionary_Udemy.AssemblyInfo.cs
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\obj\Debug\net8.0\SortedDictionary_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\obj\Debug\net8.0\SortedDictionary_Udemy.dll
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\obj\Debug\net8.0\refint\SortedDictionary_Udemy.dll
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\obj\Debug\net8.0\SortedDictionary_Udemy.pdb
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\obj\Debug\net8.0\SortedDictionary_Udemy.genruntimeconfig.cache
+C:\Users\italo.andrade\source\repos\SortedDictionary_Udemy\obj\Debug\net8.0\ref\SortedDictionary_Udemy.dll

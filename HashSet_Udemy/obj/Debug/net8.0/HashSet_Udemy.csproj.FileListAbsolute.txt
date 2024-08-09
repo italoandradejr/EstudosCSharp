@@ -1,0 +1,14 @@
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\bin\Debug\net8.0\HashSet_Udemy.exe
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\bin\Debug\net8.0\HashSet_Udemy.deps.json
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\bin\Debug\net8.0\HashSet_Udemy.runtimeconfig.json
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\bin\Debug\net8.0\HashSet_Udemy.dll
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\bin\Debug\net8.0\HashSet_Udemy.pdb
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\obj\Debug\net8.0\HashSet_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\obj\Debug\net8.0\HashSet_Udemy.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\obj\Debug\net8.0\HashSet_Udemy.AssemblyInfo.cs
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\obj\Debug\net8.0\HashSet_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\obj\Debug\net8.0\HashSet_Udemy.dll
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\obj\Debug\net8.0\refint\HashSet_Udemy.dll
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\obj\Debug\net8.0\HashSet_Udemy.pdb
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\obj\Debug\net8.0\HashSet_Udemy.genruntimeconfig.cache
+C:\Users\italo.andrade\source\repos\HashSet_Udemy\obj\Debug\net8.0\ref\HashSet_Udemy.dll

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\source\\repos\\RestricoesUdemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4095E64A-335D-4DD4-BC6A-EECDB27FEDD5}|RestricoesUdemy.csproj|c:\\users\\italo.andrade\\source\\repos\\restricoesudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095E64A-335D-4DD4-BC6A-EECDB27FEDD5}|RestricoesUdemy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095E64A-335D-4DD4-BC6A-EECDB27FEDD5}|RestricoesUdemy.csproj|c:\\users\\italo.andrade\\source\\repos\\restricoesudemy\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095E64A-335D-4DD4-BC6A-EECDB27FEDD5}|RestricoesUdemy.csproj|solutionrelative:services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095E64A-335D-4DD4-BC6A-EECDB27FEDD5}|RestricoesUdemy.csproj|c:\\users\\italo.andrade\\source\\repos\\restricoesudemy\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095E64A-335D-4DD4-BC6A-EECDB27FEDD5}|RestricoesUdemy.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\source\\repos\\RestricoesUdemy\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\source\\repos\\RestricoesUdemy\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:31:38.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\source\\repos\\RestricoesUdemy\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\source\\repos\\RestricoesUdemy\\Services\\CalculationService.cs",
+              "RelativeToolTip": "Services\\CalculationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:52:38.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\source\\repos\\RestricoesUdemy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\source\\repos\\RestricoesUdemy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:51:38.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

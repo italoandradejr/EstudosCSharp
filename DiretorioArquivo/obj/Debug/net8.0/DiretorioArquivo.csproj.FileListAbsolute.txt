@@ -1,0 +1,14 @@
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\bin\Debug\net8.0\DiretorioArquivo.exe
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\bin\Debug\net8.0\DiretorioArquivo.deps.json
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\bin\Debug\net8.0\DiretorioArquivo.runtimeconfig.json
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\bin\Debug\net8.0\DiretorioArquivo.dll
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\bin\Debug\net8.0\DiretorioArquivo.pdb
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\obj\Debug\net8.0\DiretorioArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\obj\Debug\net8.0\DiretorioArquivo.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\obj\Debug\net8.0\DiretorioArquivo.AssemblyInfo.cs
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\obj\Debug\net8.0\DiretorioArquivo.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\obj\Debug\net8.0\DiretorioArquivo.dll
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\obj\Debug\net8.0\refint\DiretorioArquivo.dll
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\obj\Debug\net8.0\DiretorioArquivo.pdb
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\obj\Debug\net8.0\DiretorioArquivo.genruntimeconfig.cache
+C:\Users\italo.andrade\source\repos\DiretorioArquivo\obj\Debug\net8.0\ref\DiretorioArquivo.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\source\\repos\\Equals_Udemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51CDF8B4-0888-42F8-A476-08E58827CE52}|Equals_Udemy.csproj|c:\\users\\italo.andrade\\source\\repos\\equals_udemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CDF8B4-0888-42F8-A476-08E58827CE52}|Equals_Udemy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CDF8B4-0888-42F8-A476-08E58827CE52}|Equals_Udemy.csproj|c:\\users\\italo.andrade\\source\\repos\\equals_udemy\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CDF8B4-0888-42F8-A476-08E58827CE52}|Equals_Udemy.csproj|solutionrelative:entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\source\\repos\\Equals_Udemy\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\source\\repos\\Equals_Udemy\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Entities\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:18:48.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\source\\repos\\Equals_Udemy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\source\\repos\\Equals_Udemy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:09:42.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Course\\",
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\source\\repos\\Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9671A3C4-A63A-4EBE-AF9F-F53A8620F270}|Course\\Course.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\course\\course\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9671A3C4-A63A-4EBE-AF9F-F53A8620F270}|Course\\Course.csproj|solutionrelative:course\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9671A3C4-A63A-4EBE-AF9F-F53A8620F270}|Course\\Course.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9671A3C4-A63A-4EBE-AF9F-F53A8620F270}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{120918FE-5FAE-421A-B312-C86307401C07}|CopiaArquivo.csproj|c:\\users\\italo.andrade\\source\\repos\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120918FE-5FAE-421A-B312-C86307401C07}|CopiaArquivo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Course\\Course\\Product.cs",
-              "RelativeDocumentMoniker": "Course\\Product.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Course\\Course\\Product.cs",
-              "RelativeToolTip": "Course\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T13:45:08.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Course\\Course\\Program.cs",
-              "RelativeDocumentMoniker": "Course\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\Course\\Course\\Program.cs",
-              "RelativeToolTip": "Course\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\source\\repos\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\source\\repos\\Course\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T19:14:17.751Z",
+              "WhenOpened": "2024-07-02T19:47:44.529Z",
               "EditorCaption": ""
             }
           ]

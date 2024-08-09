@@ -1,0 +1,14 @@
+C:\Users\italo.andrade\source\repos\HashUdemy\bin\Debug\net8.0\HashUdemy.exe
+C:\Users\italo.andrade\source\repos\HashUdemy\bin\Debug\net8.0\HashUdemy.deps.json
+C:\Users\italo.andrade\source\repos\HashUdemy\bin\Debug\net8.0\HashUdemy.runtimeconfig.json
+C:\Users\italo.andrade\source\repos\HashUdemy\bin\Debug\net8.0\HashUdemy.dll
+C:\Users\italo.andrade\source\repos\HashUdemy\bin\Debug\net8.0\HashUdemy.pdb
+C:\Users\italo.andrade\source\repos\HashUdemy\obj\Debug\net8.0\HashUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\source\repos\HashUdemy\obj\Debug\net8.0\HashUdemy.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\source\repos\HashUdemy\obj\Debug\net8.0\HashUdemy.AssemblyInfo.cs
+C:\Users\italo.andrade\source\repos\HashUdemy\obj\Debug\net8.0\HashUdemy.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\source\repos\HashUdemy\obj\Debug\net8.0\HashUdemy.dll
+C:\Users\italo.andrade\source\repos\HashUdemy\obj\Debug\net8.0\refint\HashUdemy.dll
+C:\Users\italo.andrade\source\repos\HashUdemy\obj\Debug\net8.0\HashUdemy.pdb
+C:\Users\italo.andrade\source\repos\HashUdemy\obj\Debug\net8.0\HashUdemy.genruntimeconfig.cache
+C:\Users\italo.andrade\source\repos\HashUdemy\obj\Debug\net8.0\ref\HashUdemy.dll

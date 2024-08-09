@@ -1,0 +1,14 @@
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\bin\Debug\net8.0\RestricoesUdemy.exe
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\bin\Debug\net8.0\RestricoesUdemy.deps.json
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\bin\Debug\net8.0\RestricoesUdemy.runtimeconfig.json
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\bin\Debug\net8.0\RestricoesUdemy.dll
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\bin\Debug\net8.0\RestricoesUdemy.pdb
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\obj\Debug\net8.0\RestricoesUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\obj\Debug\net8.0\RestricoesUdemy.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\obj\Debug\net8.0\RestricoesUdemy.AssemblyInfo.cs
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\obj\Debug\net8.0\RestricoesUdemy.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\obj\Debug\net8.0\RestricoesUdemy.dll
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\obj\Debug\net8.0\refint\RestricoesUdemy.dll
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\obj\Debug\net8.0\RestricoesUdemy.pdb
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\obj\Debug\net8.0\RestricoesUdemy.genruntimeconfig.cache
+C:\Users\italo.andrade\source\repos\RestricoesUdemy\obj\Debug\net8.0\ref\RestricoesUdemy.dll

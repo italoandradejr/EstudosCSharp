@@ -1,0 +1,14 @@
+C:\Users\italo.andrade\source\repos\UdemyInterface\bin\Debug\net8.0\UdemyInterface.exe
+C:\Users\italo.andrade\source\repos\UdemyInterface\bin\Debug\net8.0\UdemyInterface.deps.json
+C:\Users\italo.andrade\source\repos\UdemyInterface\bin\Debug\net8.0\UdemyInterface.runtimeconfig.json
+C:\Users\italo.andrade\source\repos\UdemyInterface\bin\Debug\net8.0\UdemyInterface.dll
+C:\Users\italo.andrade\source\repos\UdemyInterface\bin\Debug\net8.0\UdemyInterface.pdb
+C:\Users\italo.andrade\source\repos\UdemyInterface\obj\Debug\net8.0\UdemyInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\source\repos\UdemyInterface\obj\Debug\net8.0\UdemyInterface.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\source\repos\UdemyInterface\obj\Debug\net8.0\UdemyInterface.AssemblyInfo.cs
+C:\Users\italo.andrade\source\repos\UdemyInterface\obj\Debug\net8.0\UdemyInterface.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\source\repos\UdemyInterface\obj\Debug\net8.0\UdemyInterface.dll
+C:\Users\italo.andrade\source\repos\UdemyInterface\obj\Debug\net8.0\refint\UdemyInterface.dll
+C:\Users\italo.andrade\source\repos\UdemyInterface\obj\Debug\net8.0\UdemyInterface.pdb
+C:\Users\italo.andrade\source\repos\UdemyInterface\obj\Debug\net8.0\UdemyInterface.genruntimeconfig.cache
+C:\Users\italo.andrade\source\repos\UdemyInterface\obj\Debug\net8.0\ref\UdemyInterface.dll

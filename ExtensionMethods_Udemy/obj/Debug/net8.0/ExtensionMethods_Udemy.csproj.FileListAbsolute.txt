@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\bin\Debug\net8.0\ExtensionMethods_Udemy.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\bin\Debug\net8.0\ExtensionMethods_Udemy.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\bin\Debug\net8.0\ExtensionMethods_Udemy.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\bin\Debug\net8.0\ExtensionMethods_Udemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\bin\Debug\net8.0\ExtensionMethods_Udemy.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\obj\Debug\net8.0\ExtensionMethods_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\obj\Debug\net8.0\ExtensionMethods_Udemy.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\obj\Debug\net8.0\ExtensionMethods_Udemy.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\obj\Debug\net8.0\ExtensionMethods_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\obj\Debug\net8.0\ExtensionMethods_Udemy.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\obj\Debug\net8.0\ExtensionMethods_Udemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\obj\Debug\net8.0\refint\ExtensionMethods_Udemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\obj\Debug\net8.0\ExtensionMethods_Udemy.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\obj\Debug\net8.0\ExtensionMethods_Udemy.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ExtensionMethods_Udemy\obj\Debug\net8.0\ref\ExtensionMethods_Udemy.dll

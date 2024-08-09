@@ -1,0 +1,14 @@
+C:\Users\italo.andrade\source\repos\UdemyGenerics\obj\Debug\net8.0\UdemyGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\source\repos\UdemyGenerics\obj\Debug\net8.0\UdemyGenerics.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\source\repos\UdemyGenerics\obj\Debug\net8.0\UdemyGenerics.AssemblyInfo.cs
+C:\Users\italo.andrade\source\repos\UdemyGenerics\obj\Debug\net8.0\UdemyGenerics.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\source\repos\UdemyGenerics\bin\Debug\net8.0\UdemyGenerics.exe
+C:\Users\italo.andrade\source\repos\UdemyGenerics\bin\Debug\net8.0\UdemyGenerics.deps.json
+C:\Users\italo.andrade\source\repos\UdemyGenerics\bin\Debug\net8.0\UdemyGenerics.runtimeconfig.json
+C:\Users\italo.andrade\source\repos\UdemyGenerics\bin\Debug\net8.0\UdemyGenerics.dll
+C:\Users\italo.andrade\source\repos\UdemyGenerics\bin\Debug\net8.0\UdemyGenerics.pdb
+C:\Users\italo.andrade\source\repos\UdemyGenerics\obj\Debug\net8.0\UdemyGenerics.dll
+C:\Users\italo.andrade\source\repos\UdemyGenerics\obj\Debug\net8.0\refint\UdemyGenerics.dll
+C:\Users\italo.andrade\source\repos\UdemyGenerics\obj\Debug\net8.0\UdemyGenerics.pdb
+C:\Users\italo.andrade\source\repos\UdemyGenerics\obj\Debug\net8.0\UdemyGenerics.genruntimeconfig.cache
+C:\Users\italo.andrade\source\repos\UdemyGenerics\obj\Debug\net8.0\ref\UdemyGenerics.dll
