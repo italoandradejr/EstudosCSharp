@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\bin\Debug\net8.0\Func_Udemy.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\bin\Debug\net8.0\Func_Udemy.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\bin\Debug\net8.0\Func_Udemy.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\bin\Debug\net8.0\Func_Udemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\bin\Debug\net8.0\Func_Udemy.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\obj\Debug\net8.0\Func_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\obj\Debug\net8.0\Func_Udemy.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\obj\Debug\net8.0\Func_Udemy.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\obj\Debug\net8.0\Func_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\obj\Debug\net8.0\Func_Udemy.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\obj\Debug\net8.0\Func_Udemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\obj\Debug\net8.0\refint\Func_Udemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\obj\Debug\net8.0\Func_Udemy.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\obj\Debug\net8.0\Func_Udemy.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Func_Udemy\obj\Debug\net8.0\ref\Func_Udemy.dll

@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\bin\Debug\net8.0\Linq_Udemy.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\bin\Debug\net8.0\Linq_Udemy.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\bin\Debug\net8.0\Linq_Udemy.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\bin\Debug\net8.0\Linq_Udemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\bin\Debug\net8.0\Linq_Udemy.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\obj\Debug\net8.0\Linq_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\obj\Debug\net8.0\Linq_Udemy.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\obj\Debug\net8.0\Linq_Udemy.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\obj\Debug\net8.0\Linq_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\obj\Debug\net8.0\Linq_Udemy.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\obj\Debug\net8.0\Linq_Udemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\obj\Debug\net8.0\refint\Linq_Udemy.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\obj\Debug\net8.0\Linq_Udemy.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\obj\Debug\net8.0\Linq_Udemy.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Linq_Udemy\obj\Debug\net8.0\ref\Linq_Udemy.dll
