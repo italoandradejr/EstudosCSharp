@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinqLambda_Udemy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a6da7e50d935b2b29c18f5755479155e8721f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea6b9b5c409afdd383aac248c349114c4b13edac")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinqLambda_Udemy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinqLambda_Udemy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

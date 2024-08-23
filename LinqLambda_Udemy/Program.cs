@@ -41,13 +41,34 @@ class Program
         };
 
         // nivel 1 com preço menor que 900.00
-        var r1 = produtos.Where(p => p.CategoriasP.nivel == 1 && p.Preco < 900.0); //filtra itens de uma lista
+        //var r1 = produtos.Where(p => p.CategoriasP.nivel == 1 && p.Preco < 900.0); //filtra itens de uma lista
+        var r1 =
+            from p in produtos
+            where p.CategoriasP.nivel == 1 && p.Preco < 900.00
+            select p;
         Imprimir("Nivel 1 e preco menor que 900", r1);
 
-        var r2 = produtos.Where(p => p.CategoriasP.Nome == "Ferramentas").Select(p => p.Nome);
+
+
+        //var r2 = produtos.Where(p => p.CategoriasP.Nome == "Ferramentas").Select(p => p.Nome);
+        var r2 = 
+            from p in produtos
+            where p.CategoriasP.Nome == "Ferramentas"
+            select p;
         Imprimir("Nomes dos produtos descritos como Ferramentas", r2);
 
-        var r3 = produtos.Where(p => p.Nome[0] == 'C').Select(p => new { p.Nome, p.Preco, CategoriaNome = p.CategoriasP.Nome });
+        //var r3 = produtos.Where(p => p.Nome[0] == 'C').Select(p => new { p.Nome, p.Preco, CategoriaNome = p.CategoriasP.Nome });
+        var r3 =
+            from p in produtos
+            where p.Nome[0] == 'C'
+            select new
+            {
+                p.Nome,
+                p.Preco,
+                CategoriaNome = p.CategoriasP.Nome
+            };
+
+
         Imprimir("Nomes começados com a letra C e obj anonimos", r3);
 
         var r4 = produtos.Where(p => p.CategoriasP.nivel == 1).OrderBy(p => p.Preco).ThenBy(p => p.Nome);
@@ -68,5 +89,27 @@ class Program
 
         var r9 = produtos.Where(p => p.Id == 30).SingleOrDefault();
         Console.WriteLine("único ou padrão teste4: ", r9);
+
+        var r10 = produtos.Max(p => p.Preco);
+        Console.WriteLine("Preço máximo: " + r10);
+
+        var r11 = produtos.Min(p => p.Preco);
+        Console.WriteLine("Preço minimo: " + r11);
+
+        var r12 = produtos.Where(p => p.CategoriasP.Id == 1).Sum(p => p.Preco);
+        Console.WriteLine("Soma de preços da categoria 1: " + r12);
+
+        Console.WriteLine();
+
+        var r16 = produtos.GroupBy(p => p.CategoriasP);
+        foreach (IGrouping<Categoria, Produto> grupo in r16)
+        {
+            Console.WriteLine("categoria " + grupo.Key.Nome + ":");
+            foreach(Produto p in grupo)
+            {
+                Console.WriteLine(p);
+            }
+            Console.WriteLine();
+        }
     }
 }
