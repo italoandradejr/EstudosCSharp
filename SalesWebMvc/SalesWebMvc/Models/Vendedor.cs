@@ -10,6 +10,7 @@ namespace SalesWebMvc.Models
         public DateTime DataDeNasc { get; set; }
         public double BaseSalario { get; set; }
         public Departamento Departamento { get; set; }
+        public int DepartamentoId { get; set; }
         public ICollection<RegistroDeVendas> Vendas { get; set; } = new List<RegistroDeVendas>();
 
 

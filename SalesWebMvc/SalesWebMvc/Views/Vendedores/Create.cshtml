@@ -1,0 +1,51 @@
+﻿@model SalesWebMvc.Models.ViewModels.VendedorFormViewModel
+@{
+	ViewData["Title"] = "Create";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h4>Vendedor</h4>
+<hr />
+<div class="row">
+	<div class="col-md-4">
+
+		<form asp-action="Create">
+
+			<div class="form-group">
+				<label asp-for="Vendedor.Nome" class="carousel-control-label"></label>
+				<input asp-for="Vendedor.Nome" class="form-control" />
+			</div>
+
+			<div class="form-group">
+				<label asp-for="Vendedor.Email" class="carousel-control-label"></label>
+				<input asp-for="Vendedor.Email" class="form-control" />
+			</div>
+
+			<div class="form-group">
+				<label asp-for="Vendedor.DataDeNasc" class="carousel-control-label"></label>
+				<input asp-for="Vendedor.DataDeNasc" class="form-control" />
+			</div>
+
+			<div class="form-group">
+				<label asp-for="Vendedor.BaseSalario" class="carousel-control-label"></label>
+				<input asp-for="Vendedor.BaseSalario" class="form-control" />
+			</div>
+
+			<div class="form-group">
+
+				<label asp-for="Vendedor.DepartamentoId" class="control-label"></label>
+				<select asp-for="Vendedor.DepartamentoId" asp-items="@(new SelectList(Model.Departamentos,"Id", "Nome"))"
+				class="form-control"></select>
+
+			</div>
+
+			<div class="form-group">
+				<input type="submit" value="Create" class="btn btn-default"/>
+			</div>
+
+		</form>
+
+	</div>
+
+</div>
