@@ -8,11 +8,12 @@ using Microsoft.EntityFrameworkCore;
 using SalesWebMvc.Data;
 using SalesWebMvc.Models;
 
+// controlador criado, para criar um controlador o nome do mesmo tem que terminar com "Controller". Controlador criado usando o método automatico de Scaffolding, a partir do Models Departamento.cs
 namespace SalesWebMvc.Controllers
 {
     public class DepartamentosController : Controller
     {
-        private readonly SalesWebMvcContext _context;
+        private readonly SalesWebMvcContext _context; //dependencia 
 
         public DepartamentosController(SalesWebMvcContext context)
         {

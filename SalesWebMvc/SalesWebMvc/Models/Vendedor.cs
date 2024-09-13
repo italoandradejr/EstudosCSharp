@@ -14,9 +14,9 @@ namespace SalesWebMvc.Models
         public ICollection<RegistroDeVendas> Vendas { get; set; } = new List<RegistroDeVendas>();
 
 
-        public Vendedor() { }
+        public Vendedor() { } // construtor vazio, é necessario quanto o construtor vai receber argumentos;
 
-        public Vendedor(int id, string nome, string email, DateTime dataDeNasc, double baseSalario, Departamento departamento)
+		public Vendedor(int id, string nome, string email, DateTime dataDeNasc, double baseSalario, Departamento departamento)
         {
             Id = id;
             Nome = nome;
@@ -38,7 +38,7 @@ namespace SalesWebMvc.Models
 
         public double TotalVendas (DateTime inicial, DateTime final)
         {
-            return Vendas.Where(sr => sr.Data >= inicial && sr.Data <= final).Sum(sr => sr.Quantia);
+            return Vendas.Where(sr => sr.Data >= inicial && sr.Data <= final).Sum(sr => sr.Quantia); // soma as venda de um vendedor de um determinado periodo
         }
     }
 }

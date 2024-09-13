@@ -10,9 +10,9 @@ namespace SalesWebMvc.Models
         public StatusDeVenda Status { get; set; }
         public Vendedor Vendedor { get; set; }
 
-        public RegistroDeVendas() { }
+        public RegistroDeVendas() { } // construtor vazio, é necessario quanto o construtor vai receber argumentos;
 
-        public RegistroDeVendas(int id, DateTime data, double quantia, StatusDeVenda status, Vendedor vendedor)
+		public RegistroDeVendas(int id, DateTime data, double quantia, StatusDeVenda status, Vendedor vendedor)
         {
             Id = id;
             Data = data;

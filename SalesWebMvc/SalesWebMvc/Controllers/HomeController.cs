@@ -13,12 +13,12 @@ namespace SalesWebMvc.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
-        {
+        public IActionResult Index() // IActionResult retorna um resultado de uma ação, 
+		{
             ViewData["Message"] = "Teste de Aplicação";
             
-            return View();
-        }
+            return View(); //o método vai procurar na pasta Views, a pasta Home (de HomeController.cs) o arquivo Index.
+		}
 
         public IActionResult Privacy()
         {

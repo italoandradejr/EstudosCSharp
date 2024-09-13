@@ -2,6 +2,8 @@
 using SalesWebMvc.Models;
 using SalesWebMvc.Models.Enums;
 
+//envia os dados para o banco de dados no MySql
+
 namespace SalesWebMvc.Data
 {
     public class SeedingService
@@ -15,13 +17,13 @@ namespace SalesWebMvc.Data
 
         public void Seed()
         {
-            _context.Database.EnsureCreated();
+            _context.Database.EnsureCreated(); // testa se já existe algum dado no banco
 
             if(_context.Departamento.Any() ||
                 _context.Vendedor.Any() ||
                 _context.RegistroDeVendas.Any())
             {
-                return;
+                return; // o bando de dados já foi populado
             }
 
             Departamento d1 = new Departamento(1, "Computador");
@@ -100,7 +102,6 @@ namespace SalesWebMvc.Data
             _context.Departamento.AddRange(d1, d2, d3, d4);
             _context.Vendedor.AddRange(s1, s2, s3, s4, s5, s6);
             _context.RegistroDeVendas.AddRange(r1, r2, r3, r4, r5, r6, r7, r8, r9, r10, r12, r13, r14, r15, r16, r17, r18, r19, r20, r21, r22, r23, r24, r25, r26, r27, r28, r29, r30);
-
 
             _context.SaveChanges();
         }
