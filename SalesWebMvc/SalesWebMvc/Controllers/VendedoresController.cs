@@ -40,5 +40,45 @@ namespace SalesWebMvc.Controllers
             _servicoDeVenda.Insert(vendedor);
             return RedirectToAction(nameof(Index));
         }
+
+        public IActionResult Delete (int? id)
+        {
+            if(id == null)
+            {
+                return NotFound();
+            }
+
+            var obj = _servicoDeVenda.FindById(id.Value);
+            if(obj == null)
+            {
+                return NotFound();
+            }
+
+            return View(obj);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Delete2(int id)
+        {
+            _servicoDeVenda.Remove(id);
+            return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult Details (int ? id)
+        {
+			if (id == null)
+			{
+				return NotFound();
+			}
+
+			var obj = _servicoDeVenda.FindById(id.Value);
+			if (obj == null)
+			{
+				return NotFound();
+			}
+
+			return View(obj);
+		}
     }
 }

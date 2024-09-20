@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9D19A40-4583-4C54-8E19-92057920F643}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\saleswebmvc\\saleswebmvc\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9D19A40-4583-4C54-8E19-92057920F643}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D19A40-4583-4C54-8E19-92057920F643}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\saleswebmvc\\saleswebmvc\\views\\vendedores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9D19A40-4583-4C54-8E19-92057920F643}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\vendedores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D19A40-4583-4C54-8E19-92057920F643}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\saleswebmvc\\saleswebmvc\\views\\vendedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9D19A40-4583-4C54-8E19-92057920F643}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\vendedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SalesWebMvc\\SalesWebMvc\\Views\\Vendedores\\Index.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Vendedores\\Index.cshtml",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SalesWebMvc\\SalesWebMvc\\Views\\Vendedores\\Index.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\Vendedores\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SalesWebMvc\\SalesWebMvc\\Views\\Vendedores\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Vendedores\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SalesWebMvc\\SalesWebMvc\\Views\\Vendedores\\Delete.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Vendedores\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T20:47:30.73Z",
+              "WhenOpened": "2024-09-20T18:48:55.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SalesWebMvc\\SalesWebMvc\\Views\\Vendedores\\Details.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Vendedores\\Details.cshtml",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SalesWebMvc\\SalesWebMvc\\Views\\Vendedores\\Details.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Vendedores\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T18:40:42.921Z",
               "EditorCaption": ""
             },
             {
@@ -41,14 +66,23 @@
               "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\VendedoresController.cs",
               "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SalesWebMvc\\SalesWebMvc\\Controllers\\VendedoresController.cs",
               "RelativeToolTip": "SalesWebMvc\\Controllers\\VendedoresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:33:59.221Z",
+              "WhenOpened": "2024-09-20T18:26:52.537Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SalesWebMvc\\SalesWebMvc\\Views\\Vendedores\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Vendedores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SalesWebMvc\\SalesWebMvc\\Views\\Vendedores\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Vendedores\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T18:13:33.584Z",
+              "EditorCaption": ""
             }
           ]
         }
