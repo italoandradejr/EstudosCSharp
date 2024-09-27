@@ -4,6 +4,7 @@ using SalesWebMvc.Models;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using System.Data;
 //arquivo criado
 namespace SalesWebMvc.Services
 {
@@ -37,6 +38,24 @@ namespace SalesWebMvc.Services
             var obj = _context.Vendedor.Find(id);
             _context.Vendedor.Remove(obj);
             _context.SaveChanges();
+        }
+
+        public void Update (Vendedor obj)
+        {
+            if (!_context.Vendedor.Any(x => x.Id == obj.Id))
+            {
+                throw new DirectoryNotFoundException("Id Não Encontrado");
+            }
+            try
+            {
+				_context.Update(obj);
+				_context.SaveChanges();
+			}
+            catch (DbUpdateConcurrencyException e)
+            {
+                throw new DBConcurrencyException(e.Message);
+            }
+             
         }
     }
 }
