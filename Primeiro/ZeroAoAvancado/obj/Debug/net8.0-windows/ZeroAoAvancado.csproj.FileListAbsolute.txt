@@ -1,0 +1,17 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\bin\Debug\net8.0-windows\ZeroAoAvancado.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\bin\Debug\net8.0-windows\ZeroAoAvancado.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\bin\Debug\net8.0-windows\ZeroAoAvancado.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\bin\Debug\net8.0-windows\ZeroAoAvancado.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\bin\Debug\net8.0-windows\ZeroAoAvancado.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ZeroAoAvancado.Form1.resources
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ZeroAoAvancado.csproj.GenerateResource.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ZeroAoAvancado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ZeroAoAvancado.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ZeroAoAvancado.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ZeroAoAvancado.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ZeroAoAvancado.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ZeroAoAvancado.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\refint\ZeroAoAvancado.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ZeroAoAvancado.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ZeroAoAvancado.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Primeiro\ZeroAoAvancado\obj\Debug\net8.0-windows\ref\ZeroAoAvancado.dll

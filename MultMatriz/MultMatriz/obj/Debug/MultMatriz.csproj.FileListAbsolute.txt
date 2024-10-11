@@ -1,0 +1,7 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MultMatriz\MultMatriz\bin\Debug\MultMatriz.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MultMatriz\MultMatriz\bin\Debug\MultMatriz.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MultMatriz\MultMatriz\bin\Debug\MultMatriz.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MultMatriz\MultMatriz\obj\Debug\MultMatriz.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MultMatriz\MultMatriz\obj\Debug\MultMatriz.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MultMatriz\MultMatriz\obj\Debug\MultMatriz.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MultMatriz\MultMatriz\obj\Debug\MultMatriz.pdb

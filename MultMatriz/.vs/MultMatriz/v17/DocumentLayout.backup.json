@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MultMatriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829ED955-F6F5-461B-B0E9-04D38171FBD4}|MultMatriz\\MultMatriz.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\multmatriz\\multmatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829ED955-F6F5-461B-B0E9-04D38171FBD4}|MultMatriz\\MultMatriz.csproj|solutionrelative:multmatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MultMatriz\\MultMatriz\\Program.cs",
+              "RelativeDocumentMoniker": "MultMatriz\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MultMatriz\\MultMatriz\\Program.cs",
+              "RelativeToolTip": "MultMatriz\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:14:33.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
