@@ -1,0 +1,7 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\MetodoConstrutor\bin\Debug\MetodoConstrutor.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\MetodoConstrutor\obj\Debug\MetodoConstrutor.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\MetodoConstrutor\obj\Debug\MetodoConstrutor.pdb

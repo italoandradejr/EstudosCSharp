@@ -1,0 +1,7 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Estaticas\bin\Debug\Estaticas.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Estaticas\bin\Debug\Estaticas.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Estaticas\bin\Debug\Estaticas.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Estaticas\obj\Debug\Estaticas.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Estaticas\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Estaticas\obj\Debug\Estaticas.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Estaticas\obj\Debug\Estaticas.pdb

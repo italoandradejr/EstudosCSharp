@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SobrecargaMetodos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B1DC22-6330-43EA-9577-9DABB00A38BC}|SobrecargaMetodos\\SobrecargaMetodos.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\sobrecargametodos\\sobrecargametodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B1DC22-6330-43EA-9577-9DABB00A38BC}|SobrecargaMetodos\\SobrecargaMetodos.csproj|solutionrelative:sobrecargametodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SobrecargaMetodos\\SobrecargaMetodos\\Program.cs",
+              "RelativeDocumentMoniker": "SobrecargaMetodos\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\SobrecargaMetodos\\SobrecargaMetodos\\Program.cs",
+              "RelativeToolTip": "SobrecargaMetodos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:21:55.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

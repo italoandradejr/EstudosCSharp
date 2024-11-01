@@ -1,0 +1,7 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

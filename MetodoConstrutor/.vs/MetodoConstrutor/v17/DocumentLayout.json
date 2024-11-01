@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\metodoconstrutor\\heranca\\caminhonete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|solutionrelative:heranca\\caminhonete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\heranca\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|solutionrelative:heranca\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\metodoconstrutor\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\heranca\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|solutionrelative:heranca\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Caminhonete.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Caminhonete.cs",
+              "RelativeDocumentMoniker": "Heranca\\Caminhonete.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Caminhonete.cs",
+              "RelativeToolTip": "Heranca\\Caminhonete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:06:39.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Heranca\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Veiculo.cs",
+              "RelativeToolTip": "Heranca\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:02:31.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "Heranca\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Bicicleta.cs",
+              "RelativeToolTip": "Heranca\\Bicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:58:58.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Carro.cs",
+              "RelativeDocumentMoniker": "Heranca\\Carro.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Carro.cs",
+              "RelativeToolTip": "Heranca\\Carro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:54:46.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:53:45.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

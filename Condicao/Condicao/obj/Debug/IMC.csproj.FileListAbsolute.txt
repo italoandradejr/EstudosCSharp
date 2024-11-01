@@ -1,0 +1,7 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Condicao\Condicao\bin\Debug\Condicao.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Condicao\Condicao\bin\Debug\Condicao.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Condicao\Condicao\bin\Debug\Condicao.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Condicao\Condicao\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Condicao\Condicao\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Condicao\Condicao\obj\Debug\Condicao.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Condicao\Condicao\obj\Debug\Condicao.pdb

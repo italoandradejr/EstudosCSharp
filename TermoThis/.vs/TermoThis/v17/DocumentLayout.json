@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\TermoThis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E9E39-B0AA-4349-85C3-A95FC75B192E}|TermoThis\\TermoThis.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\termothis\\termothis\\acessar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E9E39-B0AA-4349-85C3-A95FC75B192E}|TermoThis\\TermoThis.csproj|solutionrelative:termothis\\acessar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E9E39-B0AA-4349-85C3-A95FC75B192E}|TermoThis\\TermoThis.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\termothis\\termothis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E9E39-B0AA-4349-85C3-A95FC75B192E}|TermoThis\\TermoThis.csproj|solutionrelative:termothis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Acessar.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\TermoThis\\TermoThis\\Acessar.cs",
+              "RelativeDocumentMoniker": "TermoThis\\Acessar.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\TermoThis\\TermoThis\\Acessar.cs",
+              "RelativeToolTip": "TermoThis\\Acessar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:39:51.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\TermoThis\\TermoThis\\Program.cs",
+              "RelativeDocumentMoniker": "TermoThis\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\TermoThis\\TermoThis\\Program.cs",
+              "RelativeToolTip": "TermoThis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:34:23.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

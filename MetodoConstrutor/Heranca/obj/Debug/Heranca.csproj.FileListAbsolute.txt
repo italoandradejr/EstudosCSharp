@@ -1,0 +1,7 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Heranca\bin\Debug\Heranca.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Heranca\bin\Debug\Heranca.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Heranca\obj\Debug\Heranca.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Heranca\obj\Debug\Heranca.pdb
