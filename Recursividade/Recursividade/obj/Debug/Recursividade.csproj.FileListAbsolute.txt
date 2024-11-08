@@ -1,0 +1,7 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Recursividade\Recursividade\bin\Debug\Recursividade.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Recursividade\Recursividade\bin\Debug\Recursividade.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Recursividade\Recursividade\bin\Debug\Recursividade.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Recursividade\Recursividade\obj\Debug\Recursividade.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Recursividade\Recursividade\obj\Debug\Recursividade.pdb

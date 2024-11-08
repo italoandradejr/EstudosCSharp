@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\metodoconstrutor\\heranca\\caminhonete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|solutionrelative:heranca\\caminhonete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{740AAC11-C049-4E36-81EB-C1B6E794BD4C}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\metodoconstrutor\\polimorfismo\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740AAC11-C049-4E36-81EB-C1B6E794BD4C}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\heranca\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|solutionrelative:heranca\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{740AAC11-C049-4E36-81EB-C1B6E794BD4C}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\metodoconstrutor\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740AAC11-C049-4E36-81EB-C1B6E794BD4C}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\metodoconstrutor\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\heranca\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}|Heranca\\Heranca.csproj|solutionrelative:heranca\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{740AAC11-C049-4E36-81EB-C1B6E794BD4C}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\metodoconstrutor\\polimorfismo\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740AAC11-C049-4E36-81EB-C1B6E794BD4C}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,66 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Caminhonete.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Caminhonete.cs",
-              "RelativeDocumentMoniker": "Heranca\\Caminhonete.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Caminhonete.cs",
-              "RelativeToolTip": "Heranca\\Caminhonete.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Polimorfismo\\Conta.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Conta.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Polimorfismo\\Conta.cs",
+              "RelativeToolTip": "Polimorfismo\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T21:06:39.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Veiculo.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Veiculo.cs",
-              "RelativeDocumentMoniker": "Heranca\\Veiculo.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Veiculo.cs",
-              "RelativeToolTip": "Heranca\\Veiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:02:31.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bicicleta.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Bicicleta.cs",
-              "RelativeDocumentMoniker": "Heranca\\Bicicleta.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Bicicleta.cs",
-              "RelativeToolTip": "Heranca\\Bicicleta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:58:58.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Carro.cs",
-              "RelativeDocumentMoniker": "Heranca\\Carro.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Carro.cs",
-              "RelativeToolTip": "Heranca\\Carro.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:54:46.856Z",
+              "WhenOpened": "2024-11-04T19:37:05.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Heranca\\Program.cs",
-              "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Polimorfismo\\Classes.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Classes.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Polimorfismo\\Classes.cs",
+              "RelativeToolTip": "Polimorfismo\\Classes.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:53:45.74Z",
+              "WhenOpened": "2024-11-04T15:45:03.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\MetodoConstrutor\\Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Polimorfismo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:44:39.749Z",
               "EditorCaption": ""
             }
           ]

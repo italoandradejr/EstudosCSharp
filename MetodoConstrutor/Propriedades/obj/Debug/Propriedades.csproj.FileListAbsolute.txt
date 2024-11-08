@@ -1,0 +1,7 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Propriedades\bin\Debug\Propriedades.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Propriedades\bin\Debug\Propriedades.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Propriedades\obj\Debug\Propriedades.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Propriedades\obj\Debug\Propriedades.pdb

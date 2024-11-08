@@ -1,0 +1,7 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MetodoConstrutor\Polimorfismo\obj\Debug\Polimorfismo.pdb

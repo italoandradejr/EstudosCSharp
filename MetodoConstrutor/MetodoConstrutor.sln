@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "Encapsula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modificadores", "..\Modificadores\Modificadores.csproj", "{652F55C0-3F97-4BB0-A299-002D6953FEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{740AAC11-C049-4E36-81EB-C1B6E794BD4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66C3B131-8EE4-45D1-8C3C-516D9CBBBBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652F55C0-3F97-4BB0-A299-002D6953FEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652F55C0-3F97-4BB0-A299-002D6953FEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652F55C0-3F97-4BB0-A299-002D6953FEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652F55C0-3F97-4BB0-A299-002D6953FEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740AAC11-C049-4E36-81EB-C1B6E794BD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740AAC11-C049-4E36-81EB-C1B6E794BD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740AAC11-C049-4E36-81EB-C1B6E794BD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740AAC11-C049-4E36-81EB-C1B6E794BD4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

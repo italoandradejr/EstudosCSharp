@@ -1,0 +1,7 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MediaGeral\MediaGeral\bin\Debug\MediaGeral.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MediaGeral\MediaGeral\bin\Debug\MediaGeral.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MediaGeral\MediaGeral\bin\Debug\MediaGeral.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MediaGeral\MediaGeral\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MediaGeral\MediaGeral\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MediaGeral\MediaGeral\obj\Debug\MediaGeral.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\MediaGeral\MediaGeral\obj\Debug\MediaGeral.pdb
