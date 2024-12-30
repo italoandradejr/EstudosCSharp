@@ -1,0 +1,10 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ManipularString\ManipularString\bin\Debug\ManipularString.exe.config
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ManipularString\ManipularString\bin\Debug\ManipularString.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ManipularString\ManipularString\bin\Debug\ManipularString.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.AssemblyReference.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.Form1.resources
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.Properties.Resources.resources
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.GenerateResource.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.pdb

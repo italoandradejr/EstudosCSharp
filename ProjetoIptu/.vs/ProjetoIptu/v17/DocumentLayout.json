@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\controllers\\pesquisacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\controllers\\pesquisacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\models\\pesquisaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\models\\pesquisaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\views\\pesquisa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\views\\pesquisa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\views\\pesquisa\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\views\\pesquisa\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\controllers\\pesquisacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\controllers\\pesquisacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PesquisaController.cs",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Controllers\\PesquisaController.cs",
-              "RelativeDocumentMoniker": "ProjetoIptu\\Controllers\\PesquisaController.cs",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Controllers\\PesquisaController.cs",
-              "RelativeToolTip": "ProjetoIptu\\Controllers\\PesquisaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T13:04:22.04Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PesquisaViewModel.cs",
               "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Models\\PesquisaViewModel.cs",
               "RelativeDocumentMoniker": "ProjetoIptu\\Models\\PesquisaViewModel.cs",
               "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Models\\PesquisaViewModel.cs",
               "RelativeToolTip": "ProjetoIptu\\Models\\PesquisaViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T18:40:07.685Z",
+              "WhenOpened": "2024-12-19T16:11:15.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Views\\Pesquisa\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetoIptu\\Views\\Pesquisa\\Index.cshtml",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Views\\Pesquisa\\Index.cshtml",
-              "RelativeToolTip": "ProjetoIptu\\Views\\Pesquisa\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T18:37:51.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Resultado.cshtml",
-              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Views\\Pesquisa\\Resultado.cshtml",
-              "RelativeDocumentMoniker": "ProjetoIptu\\Views\\Pesquisa\\Resultado.cshtml",
-              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Views\\Pesquisa\\Resultado.cshtml",
-              "RelativeToolTip": "ProjetoIptu\\Views\\Pesquisa\\Resultado.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T15:32:50.914Z",
+              "DocumentIndex": 1,
+              "Title": "PesquisaController.cs",
+              "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Controllers\\PesquisaController.cs",
+              "RelativeDocumentMoniker": "ProjetoIptu\\Controllers\\PesquisaController.cs",
+              "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Controllers\\PesquisaController.cs",
+              "RelativeToolTip": "ProjetoIptu\\Controllers\\PesquisaController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:09:49.832Z",
               "EditorCaption": ""
             }
           ]

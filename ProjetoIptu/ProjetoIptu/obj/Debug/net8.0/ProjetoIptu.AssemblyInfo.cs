@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoIptu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c62cc5591dd490d8957c2bf62ac9d6c918fb90e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+797dc6932c8e49d8d1dcd79b4fd7da37b993f10d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoIptu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoIptu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
