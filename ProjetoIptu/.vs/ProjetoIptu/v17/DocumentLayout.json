@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\models\\pesquisaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\models\\pesquisaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\controllers\\pesquisacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\controllers\\pesquisacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|c:\\users\\italo.andrade\\documents\\dev\\csharp\\estudoscsharp\\projetoiptu\\projetoiptu\\models\\pesquisaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DEBB79-488C-4359-80D7-B074B6723028}|ProjetoIptu\\ProjetoIptu.csproj|solutionrelative:projetoiptu\\models\\pesquisaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PesquisaViewModel.cs",
               "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Models\\PesquisaViewModel.cs",
               "RelativeDocumentMoniker": "ProjetoIptu\\Models\\PesquisaViewModel.cs",
@@ -38,18 +38,17 @@
               "RelativeToolTip": "ProjetoIptu\\Models\\PesquisaViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T16:11:15.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T16:11:15.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PesquisaController.cs",
               "DocumentMoniker": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Controllers\\PesquisaController.cs",
               "RelativeDocumentMoniker": "ProjetoIptu\\Controllers\\PesquisaController.cs",
               "ToolTip": "C:\\Users\\italo.andrade\\Documents\\DEV\\CSharp\\EstudosCSharp\\ProjetoIptu\\ProjetoIptu\\Controllers\\PesquisaController.cs",
               "RelativeToolTip": "ProjetoIptu\\Controllers\\PesquisaController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T16:09:49.832Z",
               "EditorCaption": ""

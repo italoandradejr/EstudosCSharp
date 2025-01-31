@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "xadrezConsole/1.0.0": {
+        "runtime": {
+          "xadrezConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "xadrezConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

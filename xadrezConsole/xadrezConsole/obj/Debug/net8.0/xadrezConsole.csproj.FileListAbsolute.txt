@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\bin\Debug\net8.0\xadrezConsole.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\bin\Debug\net8.0\xadrezConsole.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\bin\Debug\net8.0\xadrezConsole.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\bin\Debug\net8.0\xadrezConsole.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\bin\Debug\net8.0\xadrezConsole.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\obj\Debug\net8.0\xadrezConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\obj\Debug\net8.0\xadrezConsole.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\obj\Debug\net8.0\xadrezConsole.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\obj\Debug\net8.0\xadrezConsole.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\obj\Debug\net8.0\xadrezConsole.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\obj\Debug\net8.0\xadrezConsole.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\obj\Debug\net8.0\refint\xadrezConsole.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\obj\Debug\net8.0\xadrezConsole.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\obj\Debug\net8.0\xadrezConsole.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\xadrezConsole\xadrezConsole\obj\Debug\net8.0\ref\xadrezConsole.dll
