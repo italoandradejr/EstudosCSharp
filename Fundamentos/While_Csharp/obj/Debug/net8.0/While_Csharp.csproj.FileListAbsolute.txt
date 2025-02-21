@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\bin\Debug\net8.0\While_Csharp.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\bin\Debug\net8.0\While_Csharp.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\bin\Debug\net8.0\While_Csharp.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\bin\Debug\net8.0\While_Csharp.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\bin\Debug\net8.0\While_Csharp.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\obj\Debug\net8.0\While_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\obj\Debug\net8.0\While_Csharp.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\obj\Debug\net8.0\While_Csharp.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\obj\Debug\net8.0\While_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\obj\Debug\net8.0\While_Csharp.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\obj\Debug\net8.0\While_Csharp.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\obj\Debug\net8.0\refint\While_Csharp.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\obj\Debug\net8.0\While_Csharp.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\obj\Debug\net8.0\While_Csharp.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\While_Csharp\obj\Debug\net8.0\ref\While_Csharp.dll

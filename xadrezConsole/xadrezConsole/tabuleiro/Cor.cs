@@ -10,5 +10,7 @@ namespace xadrezConsole.tabuleiro
 	{
 		Branca,
 		Preta,
+		Azul,
+		Preto
 	}
 }

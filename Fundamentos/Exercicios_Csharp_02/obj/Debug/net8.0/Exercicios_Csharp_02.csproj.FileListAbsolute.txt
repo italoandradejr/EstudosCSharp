@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\bin\Debug\net8.0\Exercicios_Csharp_02.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\bin\Debug\net8.0\Exercicios_Csharp_02.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\bin\Debug\net8.0\Exercicios_Csharp_02.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\bin\Debug\net8.0\Exercicios_Csharp_02.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\bin\Debug\net8.0\Exercicios_Csharp_02.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\obj\Debug\net8.0\Exercicios_Csharp_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\obj\Debug\net8.0\Exercicios_Csharp_02.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\obj\Debug\net8.0\Exercicios_Csharp_02.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\obj\Debug\net8.0\Exercicios_Csharp_02.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\obj\Debug\net8.0\Exercicios_Csharp_02.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\obj\Debug\net8.0\Exercicios_Csharp_02.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\obj\Debug\net8.0\refint\Exercicios_Csharp_02.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\obj\Debug\net8.0\Exercicios_Csharp_02.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\obj\Debug\net8.0\Exercicios_Csharp_02.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Exercicios_Csharp_02\obj\Debug\net8.0\ref\Exercicios_Csharp_02.dll

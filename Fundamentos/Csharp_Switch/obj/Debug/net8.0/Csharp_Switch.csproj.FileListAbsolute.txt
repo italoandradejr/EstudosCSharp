@@ -1,0 +1,15 @@
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\bin\Debug\net8.0\Csharp_Switch.exe
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\bin\Debug\net8.0\Csharp_Switch.deps.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\bin\Debug\net8.0\Csharp_Switch.runtimeconfig.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\bin\Debug\net8.0\Csharp_Switch.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\bin\Debug\net8.0\Csharp_Switch.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\obj\Debug\net8.0\Csharp_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\obj\Debug\net8.0\Csharp_Switch.AssemblyInfoInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\obj\Debug\net8.0\Csharp_Switch.AssemblyInfo.cs
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\obj\Debug\net8.0\Csharp_Switch.csproj.CoreCompileInputs.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\obj\Debug\net8.0\Csharp_Switch.sourcelink.json
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\obj\Debug\net8.0\Csharp_Switch.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\obj\Debug\net8.0\refint\Csharp_Switch.dll
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\obj\Debug\net8.0\Csharp_Switch.pdb
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\obj\Debug\net8.0\Csharp_Switch.genruntimeconfig.cache
+C:\Users\italo.andrade\Documents\DEV\CSharp\EstudosCSharp\Fundamentos\Csharp_Switch\obj\Debug\net8.0\ref\Csharp_Switch.dll
