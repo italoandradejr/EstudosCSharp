@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\ClassesMetodos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC27507-A6AB-4B7A-BD5F-3A4B9D5C8439}|ClassesMetodos\\ClassesMetodos.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\classesmetodos\\classesmetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC27507-A6AB-4B7A-BD5F-3A4B9D5C8439}|ClassesMetodos\\ClassesMetodos.csproj|solutionrelative:classesmetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\ClassesMetodos\\ClassesMetodos\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesMetodos\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\ClassesMetodos\\ClassesMetodos\\Program.cs",
+              "RelativeToolTip": "ClassesMetodos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:35:31.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\bin\Debug\net8.0\ClassesMetodos.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\bin\Debug\net8.0\ClassesMetodos.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\bin\Debug\net8.0\ClassesMetodos.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\bin\Debug\net8.0\ClassesMetodos.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\bin\Debug\net8.0\ClassesMetodos.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net8.0\ClassesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net8.0\ClassesMetodos.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net8.0\ClassesMetodos.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net8.0\ClassesMetodos.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net8.0\ClassesMetodos.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net8.0\refint\ClassesMetodos.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net8.0\ClassesMetodos.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net8.0\ClassesMetodos.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net8.0\ref\ClassesMetodos.dll

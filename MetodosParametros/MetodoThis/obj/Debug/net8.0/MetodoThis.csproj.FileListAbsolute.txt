@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\bin\Debug\net8.0\MetodoThis.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\bin\Debug\net8.0\MetodoThis.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\bin\Debug\net8.0\MetodoThis.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\bin\Debug\net8.0\MetodoThis.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\bin\Debug\net8.0\MetodoThis.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\obj\Debug\net8.0\MetodoThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\obj\Debug\net8.0\MetodoThis.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\obj\Debug\net8.0\MetodoThis.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\obj\Debug\net8.0\MetodoThis.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\obj\Debug\net8.0\MetodoThis.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\obj\Debug\net8.0\MetodoThis.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\obj\Debug\net8.0\refint\MetodoThis.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\obj\Debug\net8.0\MetodoThis.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\obj\Debug\net8.0\MetodoThis.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoThis\obj\Debug\net8.0\ref\MetodoThis.dll

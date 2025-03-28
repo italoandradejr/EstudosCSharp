@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\obj\Debug\net8.0\ExClassesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\obj\Debug\net8.0\ExClassesMetodos.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\obj\Debug\net8.0\ExClassesMetodos.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\obj\Debug\net8.0\ExClassesMetodos.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\obj\Debug\net8.0\ExClassesMetodos.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\bin\Debug\net8.0\ExClassesMetodos.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\bin\Debug\net8.0\ExClassesMetodos.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\bin\Debug\net8.0\ExClassesMetodos.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\bin\Debug\net8.0\ExClassesMetodos.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\bin\Debug\net8.0\ExClassesMetodos.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\obj\Debug\net8.0\ExClassesMetodos.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\obj\Debug\net8.0\refint\ExClassesMetodos.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\obj\Debug\net8.0\ExClassesMetodos.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\obj\Debug\net8.0\ExClassesMetodos.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExClassesMetodos\obj\Debug\net8.0\ref\ExClassesMetodos.dll
