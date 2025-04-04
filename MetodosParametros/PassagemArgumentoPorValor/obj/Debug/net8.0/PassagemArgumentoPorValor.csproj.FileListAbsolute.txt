@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\bin\Debug\net8.0\PassagemArgumentoPorValor.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\bin\Debug\net8.0\PassagemArgumentoPorValor.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\bin\Debug\net8.0\PassagemArgumentoPorValor.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\bin\Debug\net8.0\PassagemArgumentoPorValor.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\bin\Debug\net8.0\PassagemArgumentoPorValor.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\obj\Debug\net8.0\PassagemArgumentoPorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\obj\Debug\net8.0\PassagemArgumentoPorValor.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\obj\Debug\net8.0\PassagemArgumentoPorValor.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\obj\Debug\net8.0\PassagemArgumentoPorValor.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\obj\Debug\net8.0\PassagemArgumentoPorValor.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\obj\Debug\net8.0\PassagemArgumentoPorValor.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\obj\Debug\net8.0\refint\PassagemArgumentoPorValor.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\obj\Debug\net8.0\PassagemArgumentoPorValor.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\obj\Debug\net8.0\PassagemArgumentoPorValor.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\PassagemArgumentoPorValor\obj\Debug\net8.0\ref\PassagemArgumentoPorValor.dll

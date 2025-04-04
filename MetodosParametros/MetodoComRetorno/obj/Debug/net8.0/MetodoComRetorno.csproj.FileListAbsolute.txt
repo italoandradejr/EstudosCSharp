@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\bin\Debug\net8.0\MetodoComRetorno.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\bin\Debug\net8.0\MetodoComRetorno.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\bin\Debug\net8.0\MetodoComRetorno.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\bin\Debug\net8.0\MetodoComRetorno.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\bin\Debug\net8.0\MetodoComRetorno.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\obj\Debug\net8.0\MetodoComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\obj\Debug\net8.0\MetodoComRetorno.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\obj\Debug\net8.0\MetodoComRetorno.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\obj\Debug\net8.0\MetodoComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\obj\Debug\net8.0\MetodoComRetorno.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\obj\Debug\net8.0\MetodoComRetorno.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\obj\Debug\net8.0\refint\MetodoComRetorno.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\obj\Debug\net8.0\MetodoComRetorno.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\obj\Debug\net8.0\MetodoComRetorno.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\MetodoComRetorno\obj\Debug\net8.0\ref\MetodoComRetorno.dll

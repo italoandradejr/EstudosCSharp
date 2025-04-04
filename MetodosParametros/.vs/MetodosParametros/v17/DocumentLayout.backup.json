@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CDD0A1C-ACE4-40E1-9E63-36AD66675EA4}|ExClassesMetodos\\ExClassesMetodos.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\exclassesmetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CDD0A1C-ACE4-40E1-9E63-36AD66675EA4}|ExClassesMetodos\\ExClassesMetodos.csproj|solutionrelative:exclassesmetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E063C81B-0947-4DE3-916A-74B08D9E2A25}|PassagemArgumentoPorValor\\PassagemArgumentoPorValor.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\passagemargumentoporvalor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063C81B-0947-4DE3-916A-74B08D9E2A25}|PassagemArgumentoPorValor\\PassagemArgumentoPorValor.csproj|solutionrelative:passagemargumentoporvalor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\ExClassesMetodos\\Program.cs",
-              "RelativeDocumentMoniker": "ExClassesMetodos\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\ExClassesMetodos\\Program.cs*",
-              "RelativeToolTip": "ExClassesMetodos\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\PassagemArgumentoPorValor\\Program.cs",
+              "RelativeDocumentMoniker": "PassagemArgumentoPorValor\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\PassagemArgumentoPorValor\\Program.cs",
+              "RelativeToolTip": "PassagemArgumentoPorValor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T15:19:19.908Z",
+              "WhenOpened": "2025-04-03T15:14:11.939Z",
               "EditorCaption": ""
             }
           ]
