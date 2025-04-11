@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\bin\Debug\net8.0\ExReferenciaOut.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\bin\Debug\net8.0\ExReferenciaOut.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\bin\Debug\net8.0\ExReferenciaOut.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\bin\Debug\net8.0\ExReferenciaOut.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\bin\Debug\net8.0\ExReferenciaOut.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\obj\Debug\net8.0\ExReferenciaOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\obj\Debug\net8.0\ExReferenciaOut.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\obj\Debug\net8.0\ExReferenciaOut.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\obj\Debug\net8.0\ExReferenciaOut.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\obj\Debug\net8.0\ExReferenciaOut.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\obj\Debug\net8.0\ExReferenciaOut.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\obj\Debug\net8.0\refint\ExReferenciaOut.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\obj\Debug\net8.0\ExReferenciaOut.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\obj\Debug\net8.0\ExReferenciaOut.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExReferenciaOut\obj\Debug\net8.0\ref\ExReferenciaOut.dll

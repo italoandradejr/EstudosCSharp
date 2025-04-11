@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\bin\Debug\net8.0\ArgumentosNomeados.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\bin\Debug\net8.0\ArgumentosNomeados.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\bin\Debug\net8.0\ArgumentosNomeados.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\bin\Debug\net8.0\ArgumentosNomeados.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\bin\Debug\net8.0\ArgumentosNomeados.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\obj\Debug\net8.0\ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\obj\Debug\net8.0\ArgumentosNomeados.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\obj\Debug\net8.0\ArgumentosNomeados.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\obj\Debug\net8.0\ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\obj\Debug\net8.0\ArgumentosNomeados.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\obj\Debug\net8.0\ArgumentosNomeados.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\obj\Debug\net8.0\refint\ArgumentosNomeados.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\obj\Debug\net8.0\ArgumentosNomeados.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\obj\Debug\net8.0\ArgumentosNomeados.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentosNomeados\obj\Debug\net8.0\ref\ArgumentosNomeados.dll

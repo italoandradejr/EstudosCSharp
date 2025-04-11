@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PassagemArgumentoPorValor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cca80ae88d7235fc860fbf76c28f7945daad5b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9d5ab8fcfad4737faab3c3d9684c8590fe96107")]
 [assembly: System.Reflection.AssemblyProductAttribute("PassagemArgumentoPorValor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PassagemArgumentoPorValor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

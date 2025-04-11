@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\bin\Debug\net8.0\ArgumentoPorReferenciaOut.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\bin\Debug\net8.0\ArgumentoPorReferenciaOut.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\bin\Debug\net8.0\ArgumentoPorReferenciaOut.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\bin\Debug\net8.0\ArgumentoPorReferenciaOut.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\bin\Debug\net8.0\ArgumentoPorReferenciaOut.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\obj\Debug\net8.0\ArgumentoPorReferenciaOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\obj\Debug\net8.0\ArgumentoPorReferenciaOut.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\obj\Debug\net8.0\ArgumentoPorReferenciaOut.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\obj\Debug\net8.0\ArgumentoPorReferenciaOut.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\obj\Debug\net8.0\ArgumentoPorReferenciaOut.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\obj\Debug\net8.0\ArgumentoPorReferenciaOut.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\obj\Debug\net8.0\refint\ArgumentoPorReferenciaOut.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\obj\Debug\net8.0\ArgumentoPorReferenciaOut.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\obj\Debug\net8.0\ArgumentoPorReferenciaOut.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ArgumentoPorReferenciaOut\obj\Debug\net8.0\ref\ArgumentoPorReferenciaOut.dll
