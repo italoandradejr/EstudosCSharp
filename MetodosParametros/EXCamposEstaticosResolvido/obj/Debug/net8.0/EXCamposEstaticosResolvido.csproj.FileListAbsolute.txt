@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\bin\Debug\net8.0\EXCamposEstaticosResolvido.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\bin\Debug\net8.0\EXCamposEstaticosResolvido.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\bin\Debug\net8.0\EXCamposEstaticosResolvido.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\bin\Debug\net8.0\EXCamposEstaticosResolvido.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\bin\Debug\net8.0\EXCamposEstaticosResolvido.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\obj\Debug\net8.0\EXCamposEstaticosResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\obj\Debug\net8.0\EXCamposEstaticosResolvido.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\obj\Debug\net8.0\EXCamposEstaticosResolvido.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\obj\Debug\net8.0\EXCamposEstaticosResolvido.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\obj\Debug\net8.0\EXCamposEstaticosResolvido.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\obj\Debug\net8.0\EXCamposEstaticosResolvido.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\obj\Debug\net8.0\refint\EXCamposEstaticosResolvido.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\obj\Debug\net8.0\EXCamposEstaticosResolvido.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\obj\Debug\net8.0\EXCamposEstaticosResolvido.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\EXCamposEstaticosResolvido\obj\Debug\net8.0\ref\EXCamposEstaticosResolvido.dll

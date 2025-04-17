@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\bin\Debug\net8.0\ExCaposEstatidos.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\bin\Debug\net8.0\ExCaposEstatidos.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\bin\Debug\net8.0\ExCaposEstatidos.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\bin\Debug\net8.0\ExCaposEstatidos.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\bin\Debug\net8.0\ExCaposEstatidos.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\obj\Debug\net8.0\ExCaposEstatidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\obj\Debug\net8.0\ExCaposEstatidos.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\obj\Debug\net8.0\ExCaposEstatidos.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\obj\Debug\net8.0\ExCaposEstatidos.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\obj\Debug\net8.0\ExCaposEstatidos.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\obj\Debug\net8.0\ExCaposEstatidos.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\obj\Debug\net8.0\refint\ExCaposEstatidos.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\obj\Debug\net8.0\ExCaposEstatidos.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\obj\Debug\net8.0\ExCaposEstatidos.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ExCaposEstatidos\obj\Debug\net8.0\ref\ExCaposEstatidos.dll

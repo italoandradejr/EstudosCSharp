@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C180B779-1DDB-4F04-9914-1C634E15ADBC}|MetodosEstaticos\\MetodosEstaticos.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C180B779-1DDB-4F04-9914-1C634E15ADBC}|MetodosEstaticos\\MetodosEstaticos.csproj|solutionrelative:metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B07730D-C51D-410C-BAFE-536D1667BCC3}|ExArgumentosNomeados\\ExArgumentosNomeados.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\exargumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B07730D-C51D-410C-BAFE-536D1667BCC3}|ExArgumentosNomeados\\ExArgumentosNomeados.csproj|solutionrelative:exargumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BDC82B-D632-4ECB-AF74-1C6E0DD468E1}|ArgumentosNomeados\\ArgumentosNomeados.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\argumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BDC82B-D632-4ECB-AF74-1C6E0DD468E1}|ArgumentosNomeados\\ArgumentosNomeados.csproj|solutionrelative:argumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{164A2C51-F195-4862-86E0-5F8544BB689F}|Propriedades\\Propriedades.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\propriedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164A2C51-F195-4862-86E0-5F8544BB689F}|Propriedades\\Propriedades.csproj|solutionrelative:propriedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\MetodosEstaticos\\Program.cs",
-              "RelativeDocumentMoniker": "MetodosEstaticos\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\MetodosEstaticos\\Program.cs",
-              "RelativeToolTip": "MetodosEstaticos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\Propriedades\\Program.cs",
+              "RelativeDocumentMoniker": "Propriedades\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\Propriedades\\Program.cs",
+              "RelativeToolTip": "Propriedades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:22:50.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\ExArgumentosNomeados\\Program.cs",
-              "RelativeDocumentMoniker": "ExArgumentosNomeados\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\ExArgumentosNomeados\\Program.cs",
-              "RelativeToolTip": "ExArgumentosNomeados\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:00:51.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\ArgumentosNomeados\\Program.cs",
-              "RelativeDocumentMoniker": "ArgumentosNomeados\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\ArgumentosNomeados\\Program.cs",
-              "RelativeToolTip": "ArgumentosNomeados\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:20:35.84Z",
+              "WhenOpened": "2025-04-17T15:33:20.213Z",
               "EditorCaption": ""
             }
           ]

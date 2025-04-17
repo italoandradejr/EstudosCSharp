@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\bin\Debug\net8.0\ConstrutorEstatico.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\bin\Debug\net8.0\ConstrutorEstatico.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\bin\Debug\net8.0\ConstrutorEstatico.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\bin\Debug\net8.0\ConstrutorEstatico.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\bin\Debug\net8.0\ConstrutorEstatico.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\obj\Debug\net8.0\refint\ConstrutorEstatico.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\MetodosParametros\ConstrutorEstatico\obj\Debug\net8.0\ref\ConstrutorEstatico.dll
