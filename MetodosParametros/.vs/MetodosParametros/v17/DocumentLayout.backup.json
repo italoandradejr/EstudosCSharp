@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B9DCC95-84FB-4790-A36D-D44313E59462}|ConstrutorEstatico\\ConstrutorEstatico.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\construtorestatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B9DCC95-84FB-4790-A36D-D44313E59462}|ConstrutorEstatico\\ConstrutorEstatico.csproj|solutionrelative:construtorestatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{164A2C51-F195-4862-86E0-5F8544BB689F}|Propriedades\\Propriedades.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\propriedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164A2C51-F195-4862-86E0-5F8544BB689F}|Propriedades\\Propriedades.csproj|solutionrelative:propriedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\ConstrutorEstatico\\Program.cs",
-              "RelativeDocumentMoniker": "ConstrutorEstatico\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\ConstrutorEstatico\\Program.cs",
-              "RelativeToolTip": "ConstrutorEstatico\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\Propriedades\\Program.cs",
+              "RelativeDocumentMoniker": "Propriedades\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\Propriedades\\Program.cs",
+              "RelativeToolTip": "Propriedades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T19:15:40.6Z",
+              "WhenOpened": "2025-04-17T15:33:20.213Z",
               "EditorCaption": ""
             }
           ]
