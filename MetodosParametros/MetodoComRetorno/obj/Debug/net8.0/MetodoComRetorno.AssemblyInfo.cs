@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodoComRetorno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e04b8e383045d3878de7d1f572775f798529ae89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5fb44e98d818491c0f11cc3244bd6a9c21c639e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodoComRetorno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodoComRetorno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

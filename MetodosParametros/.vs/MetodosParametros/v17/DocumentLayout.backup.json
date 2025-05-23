@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{164A2C51-F195-4862-86E0-5F8544BB689F}|Propriedades\\Propriedades.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\propriedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{164A2C51-F195-4862-86E0-5F8544BB689F}|Propriedades\\Propriedades.csproj|solutionrelative:propriedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{539B5020-355D-47E9-950C-5AB89D38A995}|BlocoTryCatch\\BlocoTryCatch.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\blocotrycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539B5020-355D-47E9-950C-5AB89D38A995}|BlocoTryCatch\\BlocoTryCatch.csproj|solutionrelative:blocotrycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\Propriedades\\Program.cs",
-              "RelativeDocumentMoniker": "Propriedades\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\Propriedades\\Program.cs",
-              "RelativeToolTip": "Propriedades\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\BlocoTryCatch\\Program.cs",
+              "RelativeDocumentMoniker": "BlocoTryCatch\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\BlocoTryCatch\\Program.cs",
+              "RelativeToolTip": "BlocoTryCatch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:33:20.213Z",
+              "WhenOpened": "2025-05-15T20:05:50.723Z",
               "EditorCaption": ""
             }
           ]
