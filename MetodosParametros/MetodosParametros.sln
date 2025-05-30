@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadoresAcesso", "Modi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocoTryCatch", "BlocoTryCatch\BlocoTryCatch.csproj", "{539B5020-355D-47E9-950C-5AB89D38A995}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonimos", "Anonimos\Anonimos.csproj", "{4DC3AC38-33DE-4C53-8EDF-85EE9B07D487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{539B5020-355D-47E9-950C-5AB89D38A995}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{539B5020-355D-47E9-950C-5AB89D38A995}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{539B5020-355D-47E9-950C-5AB89D38A995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC3AC38-33DE-4C53-8EDF-85EE9B07D487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC3AC38-33DE-4C53-8EDF-85EE9B07D487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC3AC38-33DE-4C53-8EDF-85EE9B07D487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC3AC38-33DE-4C53-8EDF-85EE9B07D487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

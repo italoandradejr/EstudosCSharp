@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{539B5020-355D-47E9-950C-5AB89D38A995}|BlocoTryCatch\\BlocoTryCatch.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\blocotrycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{539B5020-355D-47E9-950C-5AB89D38A995}|BlocoTryCatch\\BlocoTryCatch.csproj|solutionrelative:blocotrycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}|PartialClass\\PartialClass.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}|PartialClass\\PartialClass.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\partialclass\\minhapartialclassmetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\minhapartialclassmetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}|PartialClass\\PartialClass.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\metodosparametros\\partialclass\\minhapartialclassprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452DB4CB-905D-4B3A-877B-D31CB2E0DCAD}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\minhapartialclassprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinhaPartialClassMetodo.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\PartialClass\\MinhaPartialClassMetodo.cs",
+              "RelativeDocumentMoniker": "PartialClass\\MinhaPartialClassMetodo.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\PartialClass\\MinhaPartialClassMetodo.cs",
+              "RelativeToolTip": "PartialClass\\MinhaPartialClassMetodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:06:23.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinhaPartialClassProps.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\PartialClass\\MinhaPartialClassProps.cs",
+              "RelativeDocumentMoniker": "PartialClass\\MinhaPartialClassProps.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\PartialClass\\MinhaPartialClassProps.cs",
+              "RelativeToolTip": "PartialClass\\MinhaPartialClassProps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:03:55.602Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\BlocoTryCatch\\Program.cs",
-              "RelativeDocumentMoniker": "BlocoTryCatch\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\BlocoTryCatch\\Program.cs",
-              "RelativeToolTip": "BlocoTryCatch\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\PartialClass\\Program.cs",
+              "RelativeDocumentMoniker": "PartialClass\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\MetodosParametros\\PartialClass\\Program.cs*",
+              "RelativeToolTip": "PartialClass\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:05:50.723Z",
+              "WhenOpened": "2025-05-26T14:02:50.618Z",
               "EditorCaption": ""
             }
           ]

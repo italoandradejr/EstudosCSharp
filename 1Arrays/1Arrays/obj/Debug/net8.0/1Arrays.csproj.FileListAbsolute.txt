@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\bin\Debug\net8.0\1Arrays.exe
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\bin\Debug\net8.0\1Arrays.deps.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\bin\Debug\net8.0\1Arrays.runtimeconfig.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\bin\Debug\net8.0\1Arrays.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\bin\Debug\net8.0\1Arrays.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\obj\Debug\net8.0\1Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\obj\Debug\net8.0\1Arrays.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\obj\Debug\net8.0\1Arrays.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\obj\Debug\net8.0\1Arrays.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\obj\Debug\net8.0\1Arrays.sourcelink.json
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\obj\Debug\net8.0\1Arrays.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\obj\Debug\net8.0\refint\1Arrays.dll
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\obj\Debug\net8.0\1Arrays.pdb
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\obj\Debug\net8.0\1Arrays.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\desenvolvimento\CSharp\EstudosCSharp\1Arrays\1Arrays\obj\Debug\net8.0\ref\1Arrays.dll
