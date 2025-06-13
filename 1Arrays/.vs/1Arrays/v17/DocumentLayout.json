@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\1Arrays\\",
+  "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB78133D-7CD6-457F-A5FC-8B3071338B9D}|3ExArrays\\3ExArrays.csproj|c:\\users\\italo.silva\\documents\\desenvolvimento\\csharp\\estudoscsharp\\1arrays\\3exarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB78133D-7CD6-457F-A5FC-8B3071338B9D}|3ExArrays\\3ExArrays.csproj|solutionrelative:3exarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF747AB5-D1F7-4700-995C-ED8639A31436}|8List\\8List.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\1arrays\\8list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF747AB5-D1F7-4700-995C-ED8639A31436}|8List\\8List.csproj|solutionrelative:8list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287123A8-6B3B-4CB5-B88B-B1091A3948F4}|7ArrayList\\7ArrayList.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\1arrays\\7arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287123A8-6B3B-4CB5-B88B-B1091A3948F4}|7ArrayList\\7ArrayList.csproj|solutionrelative:7arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\1Arrays\\3ExArrays\\Program.cs",
-              "RelativeDocumentMoniker": "3ExArrays\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\1Arrays\\3ExArrays\\Program.cs",
-              "RelativeToolTip": "3ExArrays\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\8List\\Program.cs",
+              "RelativeDocumentMoniker": "8List\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\8List\\Program.cs",
+              "RelativeToolTip": "8List\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T19:35:51.279Z",
+              "WhenOpened": "2025-06-13T14:05:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\7ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "7ArrayList\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\7ArrayList\\Program.cs",
+              "RelativeToolTip": "7ArrayList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:31:31.412Z",
               "EditorCaption": ""
             }
           ]

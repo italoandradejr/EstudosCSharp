@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\1Arrays\\1Arrays\\1Arrays.csproj": {}
+    "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\1Arrays\\1Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\1Arrays\\1Arrays\\1Arrays.csproj": {
+    "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\1Arrays\\1Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\1Arrays\\1Arrays\\1Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\1Arrays\\1Arrays.csproj",
         "projectName": "1Arrays",
-        "projectPath": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\1Arrays\\1Arrays\\1Arrays.csproj",
+        "projectPath": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\1Arrays\\1Arrays.csproj",
         "packagesPath": "C:\\Users\\italo.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\italo.silva\\Documents\\desenvolvimento\\CSharp\\EstudosCSharp\\1Arrays\\1Arrays\\obj\\",
+        "outputPath": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\1Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
