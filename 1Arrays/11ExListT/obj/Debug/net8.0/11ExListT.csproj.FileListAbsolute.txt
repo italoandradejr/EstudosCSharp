@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\bin\Debug\net8.0\11ExListT.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\bin\Debug\net8.0\11ExListT.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\bin\Debug\net8.0\11ExListT.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\bin\Debug\net8.0\11ExListT.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\bin\Debug\net8.0\11ExListT.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\obj\Debug\net8.0\11ExListT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\obj\Debug\net8.0\11ExListT.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\obj\Debug\net8.0\11ExListT.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\obj\Debug\net8.0\11ExListT.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\obj\Debug\net8.0\11ExListT.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\obj\Debug\net8.0\11ExListT.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\obj\Debug\net8.0\refint\11ExListT.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\obj\Debug\net8.0\11ExListT.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\obj\Debug\net8.0\11ExListT.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\11ExListT\obj\Debug\net8.0\ref\11ExListT.dll

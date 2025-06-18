@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\bin\Debug\net8.0\10Find.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\bin\Debug\net8.0\10Find.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\bin\Debug\net8.0\10Find.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\bin\Debug\net8.0\10Find.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\bin\Debug\net8.0\10Find.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\obj\Debug\net8.0\10Find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\obj\Debug\net8.0\10Find.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\obj\Debug\net8.0\10Find.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\obj\Debug\net8.0\10Find.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\obj\Debug\net8.0\10Find.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\obj\Debug\net8.0\10Find.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\obj\Debug\net8.0\refint\10Find.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\obj\Debug\net8.0\10Find.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\obj\Debug\net8.0\10Find.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\10Find\obj\Debug\net8.0\ref\10Find.dll
