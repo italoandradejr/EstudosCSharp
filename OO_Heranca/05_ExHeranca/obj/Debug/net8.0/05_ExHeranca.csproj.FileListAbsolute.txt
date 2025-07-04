@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\bin\Debug\net8.0\05_ExHeranca.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\bin\Debug\net8.0\05_ExHeranca.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\bin\Debug\net8.0\05_ExHeranca.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\bin\Debug\net8.0\05_ExHeranca.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\bin\Debug\net8.0\05_ExHeranca.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\obj\Debug\net8.0\05_ExHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\obj\Debug\net8.0\05_ExHeranca.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\obj\Debug\net8.0\05_ExHeranca.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\obj\Debug\net8.0\05_ExHeranca.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\obj\Debug\net8.0\05_ExHeranca.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\obj\Debug\net8.0\05_ExHeranca.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\obj\Debug\net8.0\refint\05_ExHeranca.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\obj\Debug\net8.0\05_ExHeranca.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\obj\Debug\net8.0\05_ExHeranca.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\05_ExHeranca\obj\Debug\net8.0\ref\05_ExHeranca.dll

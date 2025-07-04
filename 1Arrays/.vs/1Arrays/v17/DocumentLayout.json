@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEEECD77-3F47-4A4C-868B-6CFDC4E6EC97}|12Indexadores\\12Indexadores.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\1arrays\\12indexadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEEECD77-3F47-4A4C-868B-6CFDC4E6EC97}|12Indexadores\\12Indexadores.csproj|solutionrelative:12indexadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEEECD77-3F47-4A4C-868B-6CFDC4E6EC97}|12Indexadores\\12Indexadores.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\1arrays\\12indexadores\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEEECD77-3F47-4A4C-868B-6CFDC4E6EC97}|12Indexadores\\12Indexadores.csproj|solutionrelative:12indexadores\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51B6CB51-1C55-49ED-9A5C-9266DA9F79CF}|13Random\\13Random.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\1arrays\\13random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B6CB51-1C55-49ED-9A5C-9266DA9F79CF}|13Random\\13Random.csproj|solutionrelative:13random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Time.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\12Indexadores\\Time.cs",
-              "RelativeDocumentMoniker": "12Indexadores\\Time.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\12Indexadores\\Time.cs",
-              "RelativeToolTip": "12Indexadores\\Time.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:26:12.25Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\12Indexadores\\Program.cs",
-              "RelativeDocumentMoniker": "12Indexadores\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\12Indexadores\\Program.cs",
-              "RelativeToolTip": "12Indexadores\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\13Random\\Program.cs",
+              "RelativeDocumentMoniker": "13Random\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\1Arrays\\13Random\\Program.cs",
+              "RelativeToolTip": "13Random\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:25:35.679Z",
+              "WhenOpened": "2025-06-23T19:35:35.695Z",
               "EditorCaption": ""
             }
           ]

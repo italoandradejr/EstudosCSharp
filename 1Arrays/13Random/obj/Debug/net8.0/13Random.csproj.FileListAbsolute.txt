@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\bin\Debug\net8.0\13Random.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\bin\Debug\net8.0\13Random.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\bin\Debug\net8.0\13Random.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\bin\Debug\net8.0\13Random.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\bin\Debug\net8.0\13Random.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\obj\Debug\net8.0\13Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\obj\Debug\net8.0\13Random.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\obj\Debug\net8.0\13Random.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\obj\Debug\net8.0\13Random.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\obj\Debug\net8.0\13Random.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\obj\Debug\net8.0\13Random.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\obj\Debug\net8.0\refint\13Random.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\obj\Debug\net8.0\13Random.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\obj\Debug\net8.0\13Random.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\1Arrays\13Random\obj\Debug\net8.0\ref\13Random.dll

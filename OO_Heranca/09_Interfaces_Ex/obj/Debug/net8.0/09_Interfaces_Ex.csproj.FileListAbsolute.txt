@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\bin\Debug\net8.0\09_Interfaces_Ex.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\bin\Debug\net8.0\09_Interfaces_Ex.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\bin\Debug\net8.0\09_Interfaces_Ex.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\bin\Debug\net8.0\09_Interfaces_Ex.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\bin\Debug\net8.0\09_Interfaces_Ex.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\obj\Debug\net8.0\09_Interfaces_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\obj\Debug\net8.0\09_Interfaces_Ex.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\obj\Debug\net8.0\09_Interfaces_Ex.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\obj\Debug\net8.0\09_Interfaces_Ex.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\obj\Debug\net8.0\09_Interfaces_Ex.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\obj\Debug\net8.0\09_Interfaces_Ex.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\obj\Debug\net8.0\refint\09_Interfaces_Ex.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\obj\Debug\net8.0\09_Interfaces_Ex.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\obj\Debug\net8.0\09_Interfaces_Ex.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\09_Interfaces_Ex\obj\Debug\net8.0\ref\09_Interfaces_Ex.dll

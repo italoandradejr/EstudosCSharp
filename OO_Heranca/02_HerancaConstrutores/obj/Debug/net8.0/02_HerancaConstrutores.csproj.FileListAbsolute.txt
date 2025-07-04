@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\bin\Debug\net8.0\02_HerancaConstrutores.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\bin\Debug\net8.0\02_HerancaConstrutores.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\bin\Debug\net8.0\02_HerancaConstrutores.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\bin\Debug\net8.0\02_HerancaConstrutores.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\bin\Debug\net8.0\02_HerancaConstrutores.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\obj\Debug\net8.0\02_HerancaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\obj\Debug\net8.0\02_HerancaConstrutores.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\obj\Debug\net8.0\02_HerancaConstrutores.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\obj\Debug\net8.0\02_HerancaConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\obj\Debug\net8.0\02_HerancaConstrutores.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\obj\Debug\net8.0\02_HerancaConstrutores.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\obj\Debug\net8.0\refint\02_HerancaConstrutores.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\obj\Debug\net8.0\02_HerancaConstrutores.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\obj\Debug\net8.0\02_HerancaConstrutores.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\OO_Heranca\02_HerancaConstrutores\obj\Debug\net8.0\ref\02_HerancaConstrutores.dll

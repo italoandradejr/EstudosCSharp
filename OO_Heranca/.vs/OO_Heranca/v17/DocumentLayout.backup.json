@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\oo_heranca\\11_herancacomposicao\\sardinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|solutionrelative:11_herancacomposicao\\sardinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\oo_heranca\\11_herancacomposicao\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|solutionrelative:11_herancacomposicao\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\oo_heranca\\11_herancacomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|solutionrelative:11_herancacomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\oo_heranca\\11_herancacomposicao\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|solutionrelative:11_herancacomposicao\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\oo_heranca\\11_herancacomposicao\\comportamentonadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|solutionrelative:11_herancacomposicao\\comportamentonadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\oo_heranca\\11_herancacomposicao\\comportamentoandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|solutionrelative:11_herancacomposicao\\comportamentoandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\oo_heranca\\11_herancacomposicao\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}|11_herancaComposicao\\11_herancaComposicao.csproj|solutionrelative:11_herancacomposicao\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComportamentoNadar.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\ComportamentoNadar.cs",
+              "RelativeDocumentMoniker": "11_herancaComposicao\\ComportamentoNadar.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\ComportamentoNadar.cs",
+              "RelativeToolTip": "11_herancaComposicao\\ComportamentoNadar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:44:34.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComportamentoAndar.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\ComportamentoAndar.cs",
+              "RelativeDocumentMoniker": "11_herancaComposicao\\ComportamentoAndar.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\ComportamentoAndar.cs",
+              "RelativeToolTip": "11_herancaComposicao\\ComportamentoAndar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:37:16.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sardinha.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\Sardinha.cs",
+              "RelativeDocumentMoniker": "11_herancaComposicao\\Sardinha.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\Sardinha.cs",
+              "RelativeToolTip": "11_herancaComposicao\\Sardinha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:35:58.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Macaco.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\Macaco.cs",
+              "RelativeDocumentMoniker": "11_herancaComposicao\\Macaco.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\Macaco.cs",
+              "RelativeToolTip": "11_herancaComposicao\\Macaco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:35:38.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Homem.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\Homem.cs",
+              "RelativeDocumentMoniker": "11_herancaComposicao\\Homem.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\Homem.cs",
+              "RelativeToolTip": "11_herancaComposicao\\Homem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:35:13.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\Animal.cs",
+              "RelativeDocumentMoniker": "11_herancaComposicao\\Animal.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\Animal.cs",
+              "RelativeToolTip": "11_herancaComposicao\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:33:51.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\Program.cs",
+              "RelativeDocumentMoniker": "11_herancaComposicao\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\OO_Heranca\\11_herancaComposicao\\Program.cs",
+              "RelativeToolTip": "11_herancaComposicao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:33:40.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
