@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\bin\Debug\net8.0\01_ExGenetics.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\bin\Debug\net8.0\01_ExGenetics.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\bin\Debug\net8.0\01_ExGenetics.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\bin\Debug\net8.0\01_ExGenetics.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\bin\Debug\net8.0\01_ExGenetics.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\obj\Debug\net8.0\01_ExGenetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\obj\Debug\net8.0\01_ExGenetics.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\obj\Debug\net8.0\01_ExGenetics.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\obj\Debug\net8.0\01_ExGenetics.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\obj\Debug\net8.0\01_ExGenetics.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\obj\Debug\net8.0\01_ExGenetics.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\obj\Debug\net8.0\refint\01_ExGenetics.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\obj\Debug\net8.0\01_ExGenetics.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\obj\Debug\net8.0\01_ExGenetics.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\01_ExGenetics\obj\Debug\net8.0\ref\01_ExGenetics.dll

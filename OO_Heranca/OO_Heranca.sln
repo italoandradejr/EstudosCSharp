@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Agregacao", "10_Agregaca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_herancaComposicao", "11_herancaComposicao\11_herancaComposicao.csproj", "{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Polimorfismo", "12_Polimorfismo\12_Polimorfismo.csproj", "{77A9861B-E291-487D-83BE-BA4610EFD9AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8E06F5B-B97F-41DC-8397-A65EDE8C8A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A9861B-E291-487D-83BE-BA4610EFD9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A9861B-E291-487D-83BE-BA4610EFD9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A9861B-E291-487D-83BE-BA4610EFD9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A9861B-E291-487D-83BE-BA4610EFD9AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
