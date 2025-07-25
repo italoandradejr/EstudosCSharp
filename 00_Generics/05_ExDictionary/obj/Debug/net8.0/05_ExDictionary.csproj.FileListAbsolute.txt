@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\bin\Debug\net8.0\05_ExDictionary.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\bin\Debug\net8.0\05_ExDictionary.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\bin\Debug\net8.0\05_ExDictionary.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\bin\Debug\net8.0\05_ExDictionary.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\bin\Debug\net8.0\05_ExDictionary.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\obj\Debug\net8.0\05_ExDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\obj\Debug\net8.0\05_ExDictionary.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\obj\Debug\net8.0\05_ExDictionary.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\obj\Debug\net8.0\05_ExDictionary.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\obj\Debug\net8.0\05_ExDictionary.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\obj\Debug\net8.0\05_ExDictionary.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\obj\Debug\net8.0\refint\05_ExDictionary.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\obj\Debug\net8.0\05_ExDictionary.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\obj\Debug\net8.0\05_ExDictionary.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Generics\05_ExDictionary\obj\Debug\net8.0\ref\05_ExDictionary.dll
