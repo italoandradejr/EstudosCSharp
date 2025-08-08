@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_DelegatesLambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D97B107E-4D58-4AE8-8156-996F8FC0FE89}|03_Predicate\\03_Predicate.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_delegateslambda\\03_predicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97B107E-4D58-4AE8-8156-996F8FC0FE89}|03_Predicate\\03_Predicate.csproj|solutionrelative:03_predicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_DelegatesLambda\\03_Predicate\\Program.cs",
+              "RelativeDocumentMoniker": "03_Predicate\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_DelegatesLambda\\03_Predicate\\Program.cs",
+              "RelativeToolTip": "03_Predicate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:29:47.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

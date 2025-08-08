@@ -23,8 +23,6 @@ catch (Exception ex)
 }
 
 
-
-
 Console.ReadKey();
 
 public class Conta
