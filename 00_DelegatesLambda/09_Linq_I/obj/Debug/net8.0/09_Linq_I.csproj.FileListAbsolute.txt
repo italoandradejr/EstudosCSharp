@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\bin\Debug\net8.0\09_Linq_I.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\bin\Debug\net8.0\09_Linq_I.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\bin\Debug\net8.0\09_Linq_I.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\bin\Debug\net8.0\09_Linq_I.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\bin\Debug\net8.0\09_Linq_I.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\obj\Debug\net8.0\09_Linq_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\obj\Debug\net8.0\09_Linq_I.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\obj\Debug\net8.0\09_Linq_I.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\obj\Debug\net8.0\09_Linq_I.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\obj\Debug\net8.0\09_Linq_I.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\obj\Debug\net8.0\09_Linq_I.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\obj\Debug\net8.0\refint\09_Linq_I.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\obj\Debug\net8.0\09_Linq_I.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\obj\Debug\net8.0\09_Linq_I.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\09_Linq_I\obj\Debug\net8.0\ref\09_Linq_I.dll

@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\bin\Debug\net8.0\06_Eventos.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\bin\Debug\net8.0\06_Eventos.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\bin\Debug\net8.0\06_Eventos.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\bin\Debug\net8.0\06_Eventos.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\bin\Debug\net8.0\06_Eventos.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\obj\Debug\net8.0\06_Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\obj\Debug\net8.0\06_Eventos.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\obj\Debug\net8.0\06_Eventos.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\obj\Debug\net8.0\06_Eventos.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\obj\Debug\net8.0\06_Eventos.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\obj\Debug\net8.0\06_Eventos.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\obj\Debug\net8.0\refint\06_Eventos.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\obj\Debug\net8.0\06_Eventos.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\obj\Debug\net8.0\06_Eventos.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\06_Eventos\obj\Debug\net8.0\ref\06_Eventos.dll

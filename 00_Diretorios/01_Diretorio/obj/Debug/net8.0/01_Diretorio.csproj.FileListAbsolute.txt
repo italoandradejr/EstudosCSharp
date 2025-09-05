@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\bin\Debug\net8.0\01_Diretorio.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\bin\Debug\net8.0\01_Diretorio.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\bin\Debug\net8.0\01_Diretorio.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\bin\Debug\net8.0\01_Diretorio.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\bin\Debug\net8.0\01_Diretorio.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\obj\Debug\net8.0\01_Diretorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\obj\Debug\net8.0\01_Diretorio.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\obj\Debug\net8.0\01_Diretorio.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\obj\Debug\net8.0\01_Diretorio.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\obj\Debug\net8.0\01_Diretorio.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\obj\Debug\net8.0\01_Diretorio.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\obj\Debug\net8.0\refint\01_Diretorio.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\obj\Debug\net8.0\01_Diretorio.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\obj\Debug\net8.0\01_Diretorio.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\01_Diretorio\obj\Debug\net8.0\ref\01_Diretorio.dll

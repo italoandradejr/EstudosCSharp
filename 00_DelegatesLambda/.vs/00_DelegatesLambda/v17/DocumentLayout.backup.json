@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_DelegatesLambda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D97B107E-4D58-4AE8-8156-996F8FC0FE89}|03_Predicate\\03_Predicate.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_delegateslambda\\03_predicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D97B107E-4D58-4AE8-8156-996F8FC0FE89}|03_Predicate\\03_Predicate.csproj|solutionrelative:03_predicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBF579DC-F6E3-48F3-8246-30BE6375A1E9}|10_Ling_II\\10_Ling_II.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_delegateslambda\\10_ling_ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF579DC-F6E3-48F3-8246-30BE6375A1E9}|10_Ling_II\\10_Ling_II.csproj|solutionrelative:10_ling_ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF579DC-F6E3-48F3-8246-30BE6375A1E9}|10_Ling_II\\10_Ling_II.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_delegateslambda\\10_ling_ii\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF579DC-F6E3-48F3-8246-30BE6375A1E9}|10_Ling_II\\10_Ling_II.csproj|solutionrelative:10_ling_ii\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_DelegatesLambda\\10_Ling_II\\Produtos.cs",
+              "RelativeDocumentMoniker": "10_Ling_II\\Produtos.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_DelegatesLambda\\10_Ling_II\\Produtos.cs",
+              "RelativeToolTip": "10_Ling_II\\Produtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:57:14.967Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_DelegatesLambda\\03_Predicate\\Program.cs",
-              "RelativeDocumentMoniker": "03_Predicate\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_DelegatesLambda\\03_Predicate\\Program.cs",
-              "RelativeToolTip": "03_Predicate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_DelegatesLambda\\10_Ling_II\\Program.cs",
+              "RelativeDocumentMoniker": "10_Ling_II\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_DelegatesLambda\\10_Ling_II\\Program.cs",
+              "RelativeToolTip": "10_Ling_II\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T14:29:47.195Z",
+              "WhenOpened": "2025-08-22T18:56:53.68Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\bin\Debug\net8.0\07_MetodosExtensao.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\bin\Debug\net8.0\07_MetodosExtensao.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\bin\Debug\net8.0\07_MetodosExtensao.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\bin\Debug\net8.0\07_MetodosExtensao.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\bin\Debug\net8.0\07_MetodosExtensao.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\obj\Debug\net8.0\07_MetodosExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\obj\Debug\net8.0\07_MetodosExtensao.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\obj\Debug\net8.0\07_MetodosExtensao.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\obj\Debug\net8.0\07_MetodosExtensao.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\obj\Debug\net8.0\07_MetodosExtensao.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\obj\Debug\net8.0\07_MetodosExtensao.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\obj\Debug\net8.0\refint\07_MetodosExtensao.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\obj\Debug\net8.0\07_MetodosExtensao.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\obj\Debug\net8.0\07_MetodosExtensao.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_DelegatesLambda\07_MetodosExtensao\obj\Debug\net8.0\ref\07_MetodosExtensao.dll

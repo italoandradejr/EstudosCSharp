@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\bin\Debug\net8.0\02_ExFileStream.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\bin\Debug\net8.0\02_ExFileStream.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\bin\Debug\net8.0\02_ExFileStream.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\bin\Debug\net8.0\02_ExFileStream.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\bin\Debug\net8.0\02_ExFileStream.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\obj\Debug\net8.0\02_ExFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\obj\Debug\net8.0\02_ExFileStream.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\obj\Debug\net8.0\02_ExFileStream.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\obj\Debug\net8.0\02_ExFileStream.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\obj\Debug\net8.0\02_ExFileStream.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\obj\Debug\net8.0\02_ExFileStream.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\obj\Debug\net8.0\refint\02_ExFileStream.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\obj\Debug\net8.0\02_ExFileStream.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\obj\Debug\net8.0\02_ExFileStream.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Diretorios\02_ExFileStream\obj\Debug\net8.0\ref\02_ExFileStream.dll
