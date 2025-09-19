@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95412F8B-BAA6-4F13-902F-5572014C41CE}|01_LinqFundamentos1\\01_LinqFundamentos1.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_linq\\01_linqfundamentos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95412F8B-BAA6-4F13-902F-5572014C41CE}|01_LinqFundamentos1\\01_LinqFundamentos1.csproj|solutionrelative:01_linqfundamentos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95412F8B-BAA6-4F13-902F-5572014C41CE}|01_LinqFundamentos1\\01_LinqFundamentos1.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_linq\\01_linqfundamentos1\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95412F8B-BAA6-4F13-902F-5572014C41CE}|01_LinqFundamentos1\\01_LinqFundamentos1.csproj|solutionrelative:01_linqfundamentos1\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95412F8B-BAA6-4F13-902F-5572014C41CE}|01_LinqFundamentos1\\01_LinqFundamentos1.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_linq\\01_linqfundamentos1\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95412F8B-BAA6-4F13-902F-5572014C41CE}|01_LinqFundamentos1\\01_LinqFundamentos1.csproj|solutionrelative:01_linqfundamentos1\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\01_LinqFundamentos1\\Aluno.cs",
+              "RelativeDocumentMoniker": "01_LinqFundamentos1\\Aluno.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\01_LinqFundamentos1\\Aluno.cs",
+              "RelativeToolTip": "01_LinqFundamentos1\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T20:35:24.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FonteDados.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\01_LinqFundamentos1\\FonteDados.cs",
+              "RelativeDocumentMoniker": "01_LinqFundamentos1\\FonteDados.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\01_LinqFundamentos1\\FonteDados.cs",
+              "RelativeToolTip": "01_LinqFundamentos1\\FonteDados.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T20:17:01.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\01_LinqFundamentos1\\Program.cs",
+              "RelativeDocumentMoniker": "01_LinqFundamentos1\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\01_LinqFundamentos1\\Program.cs",
+              "RelativeToolTip": "01_LinqFundamentos1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:33:53.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01_Assincrona")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b1191d4094526faa5519e38794e32228a1a725")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+537dbe2bbdd90abf81421f440252bd7f0d0f9739")]
 [assembly: System.Reflection.AssemblyProductAttribute("01_Assincrona")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01_Assincrona")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

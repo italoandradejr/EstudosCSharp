@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\01_Assincrona\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A714A85B-EF20-4F18-9B58-7EF7BB081C60}|01_Assincrona\\01_Assincrona.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\01_assincrona\\01_assincrona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A714A85B-EF20-4F18-9B58-7EF7BB081C60}|01_Assincrona\\01_Assincrona.csproj|solutionrelative:01_assincrona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6941D2D1-E965-4CC5-8652-ED8300D31644}|ConsoleApp1_ThreadsSemaforos\\ConsoleApp1_ThreadsSemaforos.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\01_assincrona\\consoleapp1_threadssemaforos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6941D2D1-E965-4CC5-8652-ED8300D31644}|ConsoleApp1_ThreadsSemaforos\\ConsoleApp1_ThreadsSemaforos.csproj|solutionrelative:consoleapp1_threadssemaforos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\01_Assincrona\\01_Assincrona\\Program.cs",
-              "RelativeDocumentMoniker": "01_Assincrona\\Program.cs",
-              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\01_Assincrona\\01_Assincrona\\Program.cs",
-              "RelativeToolTip": "01_Assincrona\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\01_Assincrona\\ConsoleApp1_ThreadsSemaforos\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1_ThreadsSemaforos\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\01_Assincrona\\ConsoleApp1_ThreadsSemaforos\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1_ThreadsSemaforos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T19:43:32.75Z",
+              "WhenOpened": "2025-09-16T19:41:34.774Z",
               "EditorCaption": ""
             }
           ]
