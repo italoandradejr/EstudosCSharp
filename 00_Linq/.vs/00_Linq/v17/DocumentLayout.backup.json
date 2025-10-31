@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}|04_ElementosI\\04_ElementosI.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_linq\\04_elementosi\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}|04_ElementosI\\04_ElementosI.csproj|solutionrelative:04_elementosi\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}|04_ElementosI\\04_ElementosI.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_linq\\04_elementosi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}|04_ElementosI\\04_ElementosI.csproj|solutionrelative:04_elementosi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}|04_ElementosI\\04_ElementosI.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_linq\\04_elementosi\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}|04_ElementosI\\04_ElementosI.csproj|solutionrelative:04_elementosi\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}|04_ElementosI\\04_ElementosI.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_linq\\04_elementosi\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}|04_ElementosI\\04_ElementosI.csproj|solutionrelative:04_elementosi\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}|04_ElementosI\\04_ElementosI.csproj|c:\\users\\italo.silva\\documents\\csharp\\estudoscsharp\\00_linq\\04_elementosi\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}|04_ElementosI\\04_ElementosI.csproj|solutionrelative:04_elementosi\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FonteDados.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\04_ElementosI\\FonteDados.cs",
+              "RelativeDocumentMoniker": "04_ElementosI\\FonteDados.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\04_ElementosI\\FonteDados.cs",
+              "RelativeToolTip": "04_ElementosI\\FonteDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:11:18.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\04_ElementosI\\Curso.cs",
+              "RelativeDocumentMoniker": "04_ElementosI\\Curso.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\04_ElementosI\\Curso.cs",
+              "RelativeToolTip": "04_ElementosI\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:10:29.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\04_ElementosI\\Endereco.cs",
+              "RelativeDocumentMoniker": "04_ElementosI\\Endereco.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\04_ElementosI\\Endereco.cs",
+              "RelativeToolTip": "04_ElementosI\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:09:30.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\04_ElementosI\\Aluno.cs",
+              "RelativeDocumentMoniker": "04_ElementosI\\Aluno.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\04_ElementosI\\Aluno.cs",
+              "RelativeToolTip": "04_ElementosI\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:07:46.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\04_ElementosI\\Program.cs",
+              "RelativeDocumentMoniker": "04_ElementosI\\Program.cs",
+              "ToolTip": "C:\\Users\\italo.silva\\Documents\\CSharp\\EstudosCSharp\\00_Linq\\04_ElementosI\\Program.cs",
+              "RelativeToolTip": "04_ElementosI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:07:16.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,15 @@
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\bin\Debug\net8.0\04_ElementosI.exe
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\bin\Debug\net8.0\04_ElementosI.deps.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\bin\Debug\net8.0\04_ElementosI.runtimeconfig.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\bin\Debug\net8.0\04_ElementosI.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\bin\Debug\net8.0\04_ElementosI.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\obj\Debug\net8.0\04_ElementosI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\obj\Debug\net8.0\04_ElementosI.AssemblyInfoInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\obj\Debug\net8.0\04_ElementosI.AssemblyInfo.cs
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\obj\Debug\net8.0\04_ElementosI.csproj.CoreCompileInputs.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\obj\Debug\net8.0\04_ElementosI.sourcelink.json
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\obj\Debug\net8.0\04_ElementosI.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\obj\Debug\net8.0\refint\04_ElementosI.dll
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\obj\Debug\net8.0\04_ElementosI.pdb
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\obj\Debug\net8.0\04_ElementosI.genruntimeconfig.cache
+C:\Users\italo.silva\Documents\CSharp\EstudosCSharp\00_Linq\04_ElementosI\obj\Debug\net8.0\ref\04_ElementosI.dll

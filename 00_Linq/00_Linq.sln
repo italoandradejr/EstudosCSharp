@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_AgregacaoI", "02_Agregac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Quantificacao", "03_Quantificacao\03_Quantificacao.csproj", "{E2CCBDE4-6E37-434B-BD0B-1CD3C5DE6F01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ElementosI", "04_ElementosI\04_ElementosI.csproj", "{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E2CCBDE4-6E37-434B-BD0B-1CD3C5DE6F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2CCBDE4-6E37-434B-BD0B-1CD3C5DE6F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2CCBDE4-6E37-434B-BD0B-1CD3C5DE6F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B111FDF0-1AF9-41FC-91FB-F60BE201B0A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
